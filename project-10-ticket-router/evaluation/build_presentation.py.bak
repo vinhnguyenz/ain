@@ -1,0 +1,199 @@
+#!/usr/bin/env python3
+"""Build presentation.pdf (Midterm) from the experiment results."""
+from pathlib import Path
+
+from reportlab.lib.pagesizes import A4, landscape
+from reportlab.lib.units import mm
+from reportlab.pdfgen import canvas
+
+ROOT = Path(__file__).resolve().parent.parent
+W, H = landscape(A4)
+BLUE = (0.11, 0.32, 0.55)
+DARK = (0.13, 0.15, 0.18)
+LIGHT = (0.92, 0.95, 0.98)
+ACCENT = (0.85, 0.45, 0.10)
+
+
+def slide(c: canvas.Canvas, title: str, n: int) -> None:
+    c.setFillColorRGB(*BLUE)
+    c.rect(0, H - 22 * mm, W, 22 * mm, stroke=0, fill=1)
+    c.setFillColorRGB(1, 1, 1)
+    c.setFont("Helvetica-Bold", 20)
+    c.drawString(15 * mm, H - 14.5 * mm, title)
+    c.setFont("Helvetica", 10)
+    c.setFillColorRGB(0.45, 0.5, 0.58)
+    c.drawRightString(W - 12 * mm, 9 * mm, f"Project 10 — Ticket Router · Midterm · {n}")
+    c.setFillColorRGB(*DARK)
+
+
+def bullets(c, items, x=17 * mm, y=None, size=13.5, gap=8.2 * mm, bold_prefix=True):
+    y = y if y is not None else H - 36 * mm
+    for it in items:
+        if isinstance(it, tuple):
+            head, rest = it
+            c.setFont("Helvetica-Bold", size)
+            c.drawString(x, y, "•  " + head)
+            w = c.stringWidth("•  " + head, "Helvetica-Bold", size)
+            c.setFont("Helvetica", size)
+            c.drawString(x + w + 2 * mm, y, rest)
+        else:
+            c.setFont("Helvetica", size)
+            c.drawString(x, y, "•  " + it)
+        y -= gap
+    return y
+
+
+def table(c, data, x, y, col_w, row_h=8.4 * mm, header=True, fs=12):
+    for i, row in enumerate(data):
+        for j, cell in enumerate(row):
+            cx = x + sum(col_w[:j])
+            if header and i == 0:
+                c.setFillColorRGB(*BLUE)
+                c.rect(cx, y - row_h + 2.2 * mm, col_w[j], row_h, stroke=0, fill=1)
+                c.setFillColorRGB(1, 1, 1)
+                c.setFont("Helvetica-Bold", fs)
+            else:
+                if i % 2 == 0:
+                    c.setFillColorRGB(*LIGHT)
+                    c.rect(cx, y - row_h + 2.2 * mm, col_w[j], row_h, stroke=0, fill=1)
+                c.setFillColorRGB(*DARK)
+                c.setFont("Helvetica", fs)
+            c.drawString(cx + 2.5 * mm, y, str(cell))
+        y -= row_h
+    return y
+
+
+def main() -> None:
+    out = ROOT / "presentation.pdf"
+    c = canvas.Canvas(str(out), pagesize=landscape(A4))
+
+    # 1 — Title
+    c.setFillColorRGB(*BLUE)
+    c.rect(0, 0, W, H, stroke=0, fill=1)
+    c.setFillColorRGB(1, 1, 1)
+    c.setFont("Helvetica-Bold", 34)
+    c.drawString(18 * mm, H - 62 * mm, "Project 10 — IT Helpdesk Ticket Router")
+    c.setFont("Helvetica", 19)
+    c.drawString(18 * mm, H - 78 * mm, "Midterm Milestone — AI Core: text classification with BoW / TF-IDF + classical ML")
+    c.setFont("Helvetica", 14)
+    c.drawString(18 * mm, H - 104 * mm, "Nguyen Van Vinh — Hanoi University")
+    c.drawString(18 * mm, H - 113 * mm, "Deliverables: starter/student_core.py · evaluation/run_experiments.py · this deck")
+    c.setFillColorRGB(*ACCENT)
+    c.rect(18 * mm, H - 122 * mm, 120 * mm, 1.6 * mm, stroke=0, fill=1)
+    c.showPage()
+
+    # 2 — Problem & data
+    slide(c, "1 · Problem and dataset", 2)
+    bullets(c, [
+        ("Task: ", "route each English IT support ticket to exactly 1 of 6 queues"),
+        ("Classes: ", "Account · Network · Hardware · Software · Security · Other"),
+        ("Splits: ", "train 2,100 · validation 448 · test 452 · hard_cases 24 (synthetic, seed 42)"),
+        ("Designed difficulty: ", "shared vocabulary across classes — password/login in Account AND Security,"),
+        ("", "server/connection in Network AND Software, update in Software AND Hardware"),
+        ("Paraphrases: ", "~8% of tickets avoid the obvious class keywords"),
+        ("Filler: ", "class-neutral sentences (e.g. out-of-office notes) add label noise"),
+    ])
+    c.showPage()
+
+    # 3 — Method
+    slide(c, "2 · Implemented pipelines (starter/student_core.py)", 3)
+    bullets(c, [
+        ("Shared front-end: ", "course tokenizer (lowercase, [a-z0-9]+ tokens), English stop-word removal,"),
+        ("", "word uni+bi-grams, min_df = 2"),
+        ("bow_nb: ", "CountVectorizer (Bag-of-Words) + Multinomial Naive Bayes (alpha = 0.1)"),
+        ("tfidf_svm: ", "TfidfVectorizer (sublinear) + LinearSVC, probability-calibrated (cv = 3)"),
+        ("tfidf_logreg: ", "word TF-IDF + char_wb TF-IDF (3–5 grams) + Logistic Regression (C = 10)"),
+        ("Contract: ", "train_model(texts, labels) / predict(model, texts) — exactly as starter/app.py calls them"),
+        ("Extra: ", "predict_proba() helper exposes per-class confidence for the Final UI"),
+        ("Rules respected: ", "no shipped .pkl/.joblib, no external LLM API, no hard-coded lookup"),
+    ])
+    c.showPage()
+
+    # 4 — Protocol
+    slide(c, "3 · Controlled experiment protocol", 4)
+    bullets(c, [
+        ("Model selection ", "on validation only (macro-F1); test reported once for the winner"),
+        ("Metrics: ", "Accuracy + macro Precision / Recall / F1 + 6×6 confusion matrix per split"),
+        ("Robustness: ", "hard_cases.csv — accuracy + degradation vs test, split by category"),
+        ("", "(typo / paraphrase / irrelevant-filler / ambiguous, per label_description.md ID scheme)"),
+        ("Error analysis: ", "every misclassified ticket of the compared pipelines + a data-efficiency"),
+        ("", "probe (retrain on 10% of train) to surface errors the full-data split hides"),
+        ("Reproducibility: ", "one script — evaluation/run_experiments.py → results.md + CM figures"),
+    ])
+    c.showPage()
+
+    # 5 — Results
+    slide(c, "4 · Results — pipeline comparison (macro-averaged)", 5)
+    data = [
+        ["Variant", "Val acc", "Val F1", "Test acc", "Test F1", "Hard acc", "Degradation"],
+        ["bow_nb", "1.0000", "1.0000", "1.0000", "1.0000", "0.8333", "−16.7 pts"],
+        ["tfidf_logreg", "1.0000", "1.0000", "1.0000", "1.0000", "0.8750", "−12.5 pts"],
+        ["tfidf_svm ★", "1.0000", "1.0000", "1.0000", "1.0000", "0.9167", "−8.3 pts"],
+    ]
+    y = table(c, data, 17 * mm, H - 44 * mm, [34 * mm, 24 * mm, 24 * mm, 26 * mm, 24 * mm, 26 * mm, 32 * mm])
+    bullets(c, [
+        ("Selection: ", "three-way tie on validation → tie broken by hard-case robustness"),
+        ("Winner: ", "tfidf_svm (TF-IDF + calibrated Linear SVM) ships as DEFAULT_VARIANT"),
+        ("Confusion matrices ", "are perfectly diagonal on validation and test (see next slide)"),
+    ], y=y - 6 * mm)
+    c.showPage()
+
+    # 6 — The 100% investigation
+    slide(c, "5 · Should we trust 100%? — the leakage check the brief demands", 6)
+    bullets(c, [
+        ("label_description.md warns: ", "100% F1 ⇒ suspect leakage or a too-narrow vocabulary"),
+        ("Fitting leakage? NO — ", "vectorizer vocabulary, IDF and classifier are fit on train.csv only"),
+        ("Split overlap? YES — ", "40.3% of test texts appear VERBATIM in train; 42.4% for validation"),
+        ("Near-duplicates: ", "mean best-Jaccard(test, same-label train ticket) = 0.893"),
+        ("Cause: ", "template-generated corpus + random split ⇒ template siblings in every split"),
+        ("Conclusion: ", "validation/test here measure template memorisation; the discriminative"),
+        ("", "evaluations are hard_cases.csv and the 10%-data probe (next slides)"),
+    ])
+    c.showPage()
+
+    # 7 — Robustness chart
+    slide(c, "6 · Robustness — accuracy by hard-case category", 7)
+    img = ROOT / "evaluation" / "hard_by_category.png"
+    c.drawImage(str(img), 17 * mm, 38 * mm, width=170 * mm, height=87 * mm, preserveAspectRatio=True)
+    bullets(c, [
+        ("Typo / paraphrase / filler: ", "24/24 correct for every pipeline — spelling noise costs ~0"),
+        ("Ambiguous: ", "the ONLY source of errors — keyword conflicts, not noise"),
+    ], x=195 * mm, y=H - 44 * mm, size=12, gap=10 * mm)
+    c.showPage()
+
+    # 8 — Error analysis
+    slide(c, "7 · Error analysis — two failure patterns", 8)
+    bullets(c, [
+        ("Pattern A — ambiguity (structural, survives full data):", ""),
+        ("", "HARD-000021 Hardware→Software by ALL pipelines: “printer jammed” loses to a full"),
+        ("", "secondary Software template (“license … expired”); SVM top-2 margin only 0.034"),
+        ("", "Whole ambiguous group sits at the boundary: SVM margins 0.015–0.079 → coin flips"),
+        ("", "BoW cannot tell the PRIMARY issue from the “might also be related to…” one"),
+        ("Pattern B — paraphrase under scarce data (probe, 210 tickets → 28 test errors):", ""),
+        ("", "“The program I use daily behaves unexpectedly since the newest release” → Account"),
+        ("", "“My laptop battery drains fully within thirty minutes” → Network"),
+        ("Lesson: ", "Pattern B vanishes with data (28 → 0 errors); Pattern A does not — it needs"),
+        ("", "confidence-margin alerts + human confirmation, which the Final app will implement"),
+    ], gap=7.4 * mm)
+    c.showPage()
+
+    # 9 — Conclusions
+    slide(c, "8 · Conclusions and next steps", 9)
+    bullets(c, [
+        ("Delivered: ", "student_core.py (3 comparable pipelines), experiment script, results.md,"),
+        ("", "error_analysis.md, confusion matrices, this deck"),
+        ("Headline finding: ", "on this corpus the robustness gap is semantic ambiguity, NOT typos"),
+        ("Selected model: ", "tfidf_svm — best worst-case behaviour (hard acc 0.9167)"),
+        ("For the Final (AI Product): ", "Streamlit app with confidence bars, top-2 margin alert"),
+        ("", "(motivated directly by the 0.015–0.079 ambiguous margins), test-split browser,"),
+        ("", "embedded evaluation dashboard, IEEE report"),
+        ("Demo plan: ", "clear ticket → ambiguous ticket → typo ticket → empty input"),
+    ])
+    c.showPage()
+
+    c.save()
+    print(f"wrote {out}")
+
+
+if __name__ == "__main__":
+    main()

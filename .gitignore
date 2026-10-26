@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+# Internal instructor grading documents and rubrics (sent separately)
+docs/
+instructor/
+.streamlit/
+# Project 11 (waste classifier) download caches — never submit these
+project-11-waste-classifier/data/train/
+project-11-waste-classifier/data/validation/
+project-11-waste-classifier/data/test/
+project-11-waste-classifier/data/raw/
+project-11-waste-classifier/data/trashnet/
+project-11-waste-classifier/data/dataset-resized/
+*.h5
+*.ckpt
+*.pt
+*.pth

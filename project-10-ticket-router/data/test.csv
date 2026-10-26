@@ -1,0 +1,453 @@
+ticket_id,text,label
+TST-000001,"Hi support team, The calendar sync stopped working after I updated the client. Let me know what you need from me.",Software
+TST-000002,"To whom it may concern, Could you confirm the parking policy for visitors next month. Please help as soon as possible.",Other
+TST-000003,"Hi support team, The installer fails halfway through with an unknown error code. Thanks in advance for your help.",Software
+TST-000004,"Hi support team, The password reset email for my account never shows up in my inbox. Please help as soon as possible.",Account
+TST-000005,"Dear helpdesk, My license for the design software appears to have expired. This is affecting my work today.",Software
+TST-000006,"Good morning, I received a suspicious email asking me to confirm my password. Thanks in advance for your help.",Security
+TST-000007,"Hello, I want to suggest an improvement for the internal ticketing process. Any help would be appreciated.",Other
+TST-000008,"Hi, Is there an update on the office relocation timeline. By the way, thank you for the fast response last time. Let me know what you need from me.",Other
+TST-000009,"Hi, I want to suggest an improvement for the internal ticketing process. Please help as soon as possible.",Other
+TST-000010,"Hi, The remote desktop connection drops every time I try to log in. This has happened once before a few months ago. This is affecting my work today.",Network
+TST-000011,"Hi support team, My account was merged with another user and now settings are wrong. I will be out of office tomorrow afternoon. I would like this resolved soon.",Account
+TST-000012,"To whom it may concern, My account was merged with another user and now settings are wrong. Thanks in advance for your help.",Account
+TST-000013,"To whom it may concern, I noticed unfamiliar software running in the background of my computer. Any help would be appreciated.",Security
+TST-000014,"Hello, Something is wrong with how I sign in and I keep getting rejected. Thanks in advance for your help.",Account
+TST-000015,"To whom it may concern, I forgot my username and need help recovering account access. By the way, thank you for the fast response last time. Let me know what you need from me.",Account
+TST-000016,"Dear helpdesk, Our office router seems to restart on its own several times a day. By the way, thank you for the fast response last time. Please help as soon as possible.",Network
+TST-000017,"Hello, Two-factor authentication is not sending a code to my registered device. Thanks in advance for your help.",Account
+TST-000018,"To whom it may concern, The docking station is not charging my laptop anymore. By the way, thank you for the fast response last time. Please help as soon as possible.",Hardware
+TST-000019,"Hello, Two-factor authentication is not sending a code to my registered device. Any help would be appreciated.",Account
+TST-000020,"Hello, The internal dashboard shows a blank page after the server update. Our team is currently in the middle of a big deadline. Any help would be appreciated.",Software
+TST-000021,"Hello, I noticed unfamiliar software running in the background of my computer. Thanks in advance for your help.",Security
+TST-000022,"To whom it may concern, I need to reset my password but the reset link never arrives. I will be out of office tomorrow afternoon. This is affecting my work today.",Account
+TST-000023,"Hello, My account got locked after too many failed login attempts. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Account
+TST-000024,"Hi, My laptop screen stays black even after a full restart. I appreciate the team's help with previous tickets. This is affecting my work today.",Hardware
+TST-000025,"To whom it may concern, My account got locked after too many failed login attempts. I would like this resolved soon.",Account
+TST-000026,"Good morning, The office wifi keeps disconnecting every few minutes. Let me know what you need from me.",Network
+TST-000027,"To whom it may concern, My profile information is missing after the last account update. Please help as soon as possible.",Account
+TST-000028,"Hi support team, I was logged out of every application and cannot sign back in. Let me know what you need from me.",Account
+TST-000029,"Dear helpdesk, I accidentally shared my password with what looked like an internal form. Any help would be appreciated.",Security
+TST-000030,"Hi support team, Someone asked me over chat to send my login details for a system check. I would like this resolved soon.",Security
+TST-000031,"Hello, I accidentally shared my password with what looked like an internal form. By the way, thank you for the fast response last time. Please help as soon as possible.",Security
+TST-000032,"To whom it may concern, Could you confirm the parking policy for visitors next month. Let me know what you need from me.",Other
+TST-000033,"Good morning, The monitor keeps flickering and sometimes turns off completely. Any help would be appreciated.",Hardware
+TST-000034,"Dear helpdesk, This is more of a general office matter than a computer problem. I would like this resolved soon.",Other
+TST-000035,"Hi support team, A recent patch removed a feature our whole team depends on. I appreciate the team's help with previous tickets. This is affecting my work today.",Software
+TST-000036,"Hello, I received a suspicious email asking me to confirm my password. Please help as soon as possible.",Security
+TST-000037,"Good morning, My keyboard has several keys that stopped responding. I would like this resolved soon.",Hardware
+TST-000038,"Dear helpdesk, I think my laptop might be infected after clicking a strange link. Thanks in advance for your help.",Security
+TST-000039,"Hi, I would like to request a new desk chair for the office. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Other
+TST-000040,"Hi, I need to reset my password but the reset link never arrives. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Account
+TST-000041,"Good morning, I need to reset my password but the reset link never arrives. I will be out of office tomorrow afternoon. Let me know what you need from me.",Account
+TST-000042,"Hi, The calendar sync stopped working after I updated the client. Thanks in advance for your help.",Software
+TST-000043,"To whom it may concern, Video calls keep freezing because of a poor connection. This is affecting my work today.",Network
+TST-000044,"To whom it may concern, My laptop shows connected to wifi but no pages will load. I would like this resolved soon.",Network
+TST-000045,"Hello, Video calls keep freezing because of a poor connection. I would like this resolved soon.",Network
+TST-000046,"Hi, My keyboard has several keys that stopped responding. This is affecting my work today.",Hardware
+TST-000047,"Hi, Internet speed on the third floor is extremely slow this morning. Any help would be appreciated.",Network
+TST-000048,"Hello, The reporting application crashes every time I try to export a file. Let me know what you need from me.",Software
+TST-000049,"Dear helpdesk, My license for the design software appears to have expired. Any help would be appreciated.",Software
+TST-000050,"Hi, I have a question about expense reimbursement for a work trip. I would like this resolved soon.",Other
+TST-000051,"Hello, My laptop battery drains fully within thirty minutes. Let me know what you need from me.",Hardware
+TST-000052,"Good morning, The shared network drive is unreachable from my desktop. Please help as soon as possible.",Network
+TST-000053,"Good morning, The password reset email for my account never shows up in my inbox. Thanks in advance for your help.",Account
+TST-000054,"Hello, The coffee machine on our floor is out of order again. Thanks in advance for your help.",Other
+TST-000055,"To whom it may concern, My laptop shows connected to wifi but no pages will load. This is affecting my work today.",Network
+TST-000056,"Dear helpdesk, The shared network drive is unreachable from my desktop. Any help would be appreciated.",Network
+TST-000057,"Hi, My laptop shows connected to wifi but no pages will load. I would like this resolved soon.",Network
+TST-000058,"To whom it may concern, Our office router seems to restart on its own several times a day. Let me know what you need from me.",Network
+TST-000059,"Dear helpdesk, I would like feedback on the recent helpdesk satisfaction survey. Our team is currently in the middle of a big deadline. This is affecting my work today.",Other
+TST-000060,"Hi, The system says my account is disabled and I do not know why. I appreciate the team's help with previous tickets. Any help would be appreciated.",Account
+TST-000061,"Dear helpdesk, The monitor keeps flickering and sometimes turns off completely. Let me know what you need from me.",Hardware
+TST-000062,"To whom it may concern, My license for the design software appears to have expired. Please help as soon as possible.",Software
+TST-000063,"Hi, I would like to request a new desk chair for the office. This is affecting my work today.",Other
+TST-000064,"Good morning, My account got locked after too many failed login attempts. Let me know what you need from me.",Account
+TST-000065,"Hi support team, A colleague reported that someone is impersonating our support team. This is affecting my work today.",Security
+TST-000066,"Hi support team, I think my laptop might be infected after clicking a strange link. Any help would be appreciated.",Security
+TST-000067,"Dear helpdesk, I cannot open any document since the last software update. I would like this resolved soon.",Software
+TST-000068,"Good morning, A firmware update left my laptop stuck on the boot screen. This has happened once before a few months ago. Any help would be appreciated.",Hardware
+TST-000069,"Hi, The office printer on the second floor is jammed again. I would like this resolved soon.",Hardware
+TST-000070,"Good morning, Internet speed on the third floor is extremely slow this morning. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Network
+TST-000071,"Hi, Two-factor authentication is not sending a code to my registered device. Any help would be appreciated.",Account
+TST-000072,"Good morning, The laptop fan is extremely loud and the case feels hot. This is affecting my work today.",Hardware
+TST-000073,"Hi support team, My profile information is missing after the last account update. Please help as soon as possible.",Account
+TST-000074,"Hi, Can someone update the meeting room booking calendar for next week. Thanks in advance for your help.",Other
+TST-000075,"To whom it may concern, The remote desktop connection drops every time I try to log in. Thanks in advance for your help.",Network
+TST-000076,"Hi, My keyboard has several keys that stopped responding. Let me know what you need from me.",Hardware
+TST-000077,"Hi support team, My account shows a login attempt from a location I do not recognize. Please help as soon as possible.",Security
+TST-000078,"To whom it may concern, I cannot open any document since the last software update. I would like this resolved soon.",Software
+TST-000079,"Good morning, I cannot connect to the VPN from home today. Let me know what you need from me.",Network
+TST-000080,"Hi, The shared network drive is unreachable from my desktop. Let me know what you need from me.",Network
+TST-000081,"Hi, The calendar sync stopped working after I updated the client. I would like this resolved soon.",Software
+TST-000082,"Dear helpdesk, My keyboard has several keys that stopped responding. I would like this resolved soon.",Hardware
+TST-000083,"To whom it may concern, The laptop fan is extremely loud and the case feels hot. I appreciate the team's help with previous tickets. I would like this resolved soon.",Hardware
+TST-000084,"Dear helpdesk, I have a general question about the new office badge policy. I would like this resolved soon.",Other
+TST-000085,"Hi support team, The latest update broke the spreadsheet macros I rely on. Let me know what you need from me.",Software
+TST-000086,"Hi support team, Video calls keep freezing because of a poor connection. Please help as soon as possible.",Network
+TST-000087,"Hi support team, I cannot open any document since the last software update. By the way, thank you for the fast response last time. Thanks in advance for your help.",Software
+TST-000088,"Hi support team, My account shows a login attempt from a location I do not recognize. Please help as soon as possible.",Security
+TST-000089,"Hi, I forgot my username and need help recovering account access. Let me know what you need from me.",Account
+TST-000090,"Hello, Our office router seems to restart on its own several times a day. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Network
+TST-000091,"Hi support team, The webcam on my laptop is not detected by any application. Let me know what you need from me.",Hardware
+TST-000092,"Hi, Is there an update on the office relocation timeline. This is affecting my work today.",Other
+TST-000093,"Dear helpdesk, Can someone update the meeting room booking calendar for next week. I would like this resolved soon.",Other
+TST-000094,"Good morning, My account shows a login attempt from a location I do not recognize. Any help would be appreciated.",Security
+TST-000095,"To whom it may concern, I cannot log into my account even though I am sure the password is correct. Please help as soon as possible.",Account
+TST-000096,"Good morning, Our shared folder permissions changed without anyone approving it. This is affecting my work today.",Security
+TST-000097,"Hi support team, I noticed unfamiliar software running in the background of my computer. This is affecting my work today.",Security
+TST-000098,"Hi support team, The calendar sync stopped working after I updated the client. I will be out of office tomorrow afternoon. Any help would be appreciated.",Software
+TST-000099,"Hi, Can you tell me who to contact about a facilities request. This is affecting my work today.",Other
+TST-000100,"Hello, I cannot connect to the VPN from home today. This is affecting my work today.",Network
+TST-000101,"Good morning, I noticed unfamiliar software running in the background of my computer. This is affecting my work today.",Security
+TST-000102,"Hi support team, The office wifi keeps disconnecting every few minutes. I will be out of office tomorrow afternoon. Let me know what you need from me.",Network
+TST-000103,"Good morning, The system says my account is disabled and I do not know why. This is the second time I am reporting a similar issue this quarter. Please help as soon as possible.",Account
+TST-000104,"To whom it may concern, I cannot connect to the VPN from home today. I will be out of office tomorrow afternoon. I would like this resolved soon.",Network
+TST-000105,"Hi support team, The latest update broke the spreadsheet macros I rely on. Any help would be appreciated.",Software
+TST-000106,"Dear helpdesk, My keyboard has several keys that stopped responding. Thanks in advance for your help.",Hardware
+TST-000107,"Hi, My profile information is missing after the last account update. Thanks in advance for your help.",Account
+TST-000108,"Good morning, My account was merged with another user and now settings are wrong. This is affecting my work today.",Account
+TST-000109,"Hello, I received a suspicious email asking me to confirm my password. By the way, thank you for the fast response last time. I would like this resolved soon.",Security
+TST-000110,"Hi, Video calls keep freezing because of a poor connection. Let me know what you need from me.",Network
+TST-000111,"Good morning, I got a message claiming my account will be closed unless I verify it immediately. Please help as soon as possible.",Security
+TST-000112,"Hello, My laptop shows connected to wifi but no pages will load. Any help would be appreciated.",Network
+TST-000113,"Dear helpdesk, I received a suspicious email asking me to confirm my password. This is affecting my work today.",Security
+TST-000114,"Hello, The mobile app keeps freezing on the login screen. I would like this resolved soon.",Software
+TST-000115,"Hi, An error dialog appears every time I open the accounting tool. Please help as soon as possible.",Software
+TST-000116,"Hi support team, I was logged out of every application and cannot sign back in. Any help would be appreciated.",Account
+TST-000117,"Dear helpdesk, The ethernet port in the meeting room does not seem to work. Let me know what you need from me.",Network
+TST-000118,"Dear helpdesk, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+TST-000119,"Hi, I was logged out of every application and cannot sign back in. Any help would be appreciated.",Account
+TST-000120,"Hi, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+TST-000121,"Good morning, Internet speed on the third floor is extremely slow this morning. Any help would be appreciated.",Network
+TST-000122,"Good morning, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+TST-000123,"Hello, None of my saved credentials seem to work anymore this week. Any help would be appreciated.",Account
+TST-000124,"Hi support team, The shared network drive is unreachable from my desktop. Please help as soon as possible.",Network
+TST-000125,"Dear helpdesk, The docking station is not charging my laptop anymore. Thanks in advance for your help.",Hardware
+TST-000126,"Hi, Someone asked me over chat to send my login details for a system check. This is the second time I am reporting a similar issue this quarter. I would like this resolved soon.",Security
+TST-000127,"Hi support team, I cannot open any document since the last software update. Any help would be appreciated.",Software
+TST-000128,"Hi, I forgot my username and need help recovering account access. Any help would be appreciated.",Account
+TST-000129,"Good morning, My account was merged with another user and now settings are wrong. This is affecting my work today.",Account
+TST-000130,"To whom it may concern, I cannot open any document since the last software update. Thanks in advance for your help.",Software
+TST-000131,"Hi support team, Can you tell me who to contact about a facilities request. Thanks in advance for your help.",Other
+TST-000132,"To whom it may concern, I accidentally shared my password with what looked like an internal form. Let me know what you need from me.",Security
+TST-000133,"Hello, My profile information is missing after the last account update. This is affecting my work today.",Account
+TST-000134,"Dear helpdesk, The calendar sync stopped working after I updated the client. Thanks in advance for your help.",Software
+TST-000135,"Dear helpdesk, I have a general question about the new office badge policy. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Other
+TST-000136,"Hi support team, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+TST-000137,"Dear helpdesk, Can someone update the meeting room booking calendar for next week. I would like this resolved soon.",Other
+TST-000138,"Dear helpdesk, The program I use daily behaves unexpectedly since the newest release. Let me know what you need from me.",Software
+TST-000139,"Good morning, The coffee machine on our floor is out of order again. Let me know what you need from me.",Other
+TST-000140,"Hi support team, Can you tell me who to contact about a facilities request. This is affecting my work today.",Other
+TST-000141,"Dear helpdesk, This is more of a general office matter than a computer problem. This is affecting my work today.",Other
+TST-000142,"Dear helpdesk, The program I use daily behaves unexpectedly since the newest release. Any help would be appreciated.",Software
+TST-000143,"Hi, My laptop battery drains fully within thirty minutes. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Hardware
+TST-000144,"To whom it may concern, I need to reset my password but the reset link never arrives. Let me know what you need from me.",Account
+TST-000145,"Hi, I forgot my username and need help recovering account access. Thanks in advance for your help.",Account
+TST-000146,"Good morning, The laptop fan is extremely loud and the case feels hot. Please help as soon as possible.",Hardware
+TST-000147,"To whom it may concern, The monitor keeps flickering and sometimes turns off completely. Please help as soon as possible.",Hardware
+TST-000148,"Good morning, The internal dashboard shows a blank page after the server update. Thanks in advance for your help.",Software
+TST-000149,"Hi support team, Can you tell me who to contact about a facilities request. Please help as soon as possible.",Other
+TST-000150,"To whom it may concern, I cannot connect to the VPN from home today. Any help would be appreciated.",Network
+TST-000151,"Good morning, Can you tell me who to contact about a facilities request. I would like this resolved soon.",Other
+TST-000152,"Hello, The reporting application crashes every time I try to export a file. This is affecting my work today.",Software
+TST-000153,"Hi support team, Someone asked me over chat to send my login details for a system check. This is affecting my work today.",Security
+TST-000154,"Good morning, A firmware update left my laptop stuck on the boot screen. Please help as soon as possible.",Hardware
+TST-000155,"Good morning, A tool I rely on stopped doing what it used to do correctly. Please help as soon as possible.",Software
+TST-000156,"Good morning, The shared network drive is unreachable from my desktop. This is affecting my work today.",Network
+TST-000157,"Hi support team, The installer fails halfway through with an unknown error code. Please help as soon as possible.",Software
+TST-000158,"Good morning, I have a question about expense reimbursement for a work trip. I would like this resolved soon.",Other
+TST-000159,"Dear helpdesk, The webcam on my laptop is not detected by any application. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Hardware
+TST-000160,"Hi support team, My account shows a login attempt from a location I do not recognize. By the way, thank you for the fast response last time. I would like this resolved soon.",Security
+TST-000161,"Hi support team, The monitor keeps flickering and sometimes turns off completely. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Hardware
+TST-000162,"To whom it may concern, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+TST-000163,"Hello, A recent patch removed a feature our whole team depends on. Please help as soon as possible.",Software
+TST-000164,"Hello, A recent patch removed a feature our whole team depends on. This is the second time I am reporting a similar issue this quarter. This is affecting my work today.",Software
+TST-000165,"Hello, Two-factor authentication is not sending a code to my registered device. Let me know what you need from me.",Account
+TST-000166,"Good morning, Our shared folder permissions changed without anyone approving it. Thanks in advance for your help.",Security
+TST-000167,"To whom it may concern, My laptop shows connected to wifi but no pages will load. I would like this resolved soon.",Network
+TST-000168,"Good morning, A firmware update left my laptop stuck on the boot screen. Thanks in advance for your help.",Hardware
+TST-000169,"Hi, I have a general question about the new office badge policy. I appreciate the team's help with previous tickets. Let me know what you need from me.",Other
+TST-000170,"Hi support team, I think my laptop might be infected after clicking a strange link. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Security
+TST-000171,"To whom it may concern, Internet speed on the third floor is extremely slow this morning. Thanks in advance for your help.",Network
+TST-000172,"To whom it may concern, My profile information is missing after the last account update. I would like this resolved soon.",Account
+TST-000173,"Hello, My account was merged with another user and now settings are wrong. I appreciate the team's help with previous tickets. Please help as soon as possible.",Account
+TST-000174,"To whom it may concern, I think my laptop might be infected after clicking a strange link. I will be out of office tomorrow afternoon. Any help would be appreciated.",Security
+TST-000175,"Hi support team, I have a request that does not really fit any technical category. I would like this resolved soon.",Other
+TST-000176,"To whom it may concern, A colleague reported that someone is impersonating our support team. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Security
+TST-000177,"Hi support team, I cannot connect to the VPN from home today. I will be out of office tomorrow afternoon. Any help would be appreciated.",Network
+TST-000178,"To whom it may concern, My keyboard has several keys that stopped responding. This is affecting my work today.",Hardware
+TST-000179,"Good morning, I noticed unfamiliar software running in the background of my computer. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Security
+TST-000180,"Hi, My keyboard has several keys that stopped responding. Thanks in advance for your help.",Hardware
+TST-000181,"Hello, My account shows a login attempt from a location I do not recognize. Any help would be appreciated.",Security
+TST-000182,"Hello, I want to suggest an improvement for the internal ticketing process. Thanks in advance for your help.",Other
+TST-000183,"Hi support team, An error dialog appears every time I open the accounting tool. Thanks in advance for your help.",Software
+TST-000184,"Hi, I noticed unfamiliar software running in the background of my computer. Let me know what you need from me.",Security
+TST-000185,"To whom it may concern, The system says my account is disabled and I do not know why. Any help would be appreciated.",Account
+TST-000186,"Dear helpdesk, My profile information is missing after the last account update. By the way, thank you for the fast response last time. Thanks in advance for your help.",Account
+TST-000187,"Hello, My mouse cursor freezes randomly during the day. Any help would be appreciated.",Hardware
+TST-000188,"Good morning, Everything online feels disconnected today, on and off all morning. Let me know what you need from me.",Network
+TST-000189,"Dear helpdesk, The antivirus alert keeps flagging a file I did not download. Our team is currently in the middle of a big deadline. Thanks in advance for your help.",Security
+TST-000190,"Hi support team, The internal dashboard shows a blank page after the server update. This is the second time I am reporting a similar issue this quarter. This is affecting my work today.",Software
+TST-000191,"Hi support team, The office wifi keeps disconnecting every few minutes. I would like this resolved soon.",Network
+TST-000192,"Hi support team, My profile information is missing after the last account update. Let me know what you need from me.",Account
+TST-000193,"Hello, The office printer on the second floor is jammed again. This is affecting my work today.",Hardware
+TST-000194,"Hi, Is there an update on the office relocation timeline. I would like this resolved soon.",Other
+TST-000195,"Hi support team, I would like to request a new desk chair for the office. Thanks in advance for your help.",Other
+TST-000196,"Hi support team, A firmware update left my laptop stuck on the boot screen. Please help as soon as possible.",Hardware
+TST-000197,"Hi support team, I was logged out of every application and cannot sign back in. By the way, thank you for the fast response last time. This is affecting my work today.",Account
+TST-000198,"Hi support team, Our shared folder permissions changed without anyone approving it. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Security
+TST-000199,"Hi support team, The remote desktop connection drops every time I try to log in. This is affecting my work today.",Network
+TST-000200,"Good morning, A recent patch removed a feature our whole team depends on. Please help as soon as possible.",Software
+TST-000201,"Hello, The shared network drive is unreachable from my desktop. Please help as soon as possible.",Network
+TST-000202,"Hi, Can you tell me who to contact about a facilities request. I appreciate the team's help with previous tickets. This is affecting my work today.",Other
+TST-000203,"Dear helpdesk, I noticed unfamiliar software running in the background of my computer. This is affecting my work today.",Security
+TST-000204,"Hi, My laptop battery drains fully within thirty minutes. Let me know what you need from me.",Hardware
+TST-000205,"Hi, Video calls keep freezing because of a poor connection. This is affecting my work today.",Network
+TST-000206,"Dear helpdesk, Is there an update on the office relocation timeline. Thanks in advance for your help.",Other
+TST-000207,"Hi, I would like feedback on the recent helpdesk satisfaction survey. Any help would be appreciated.",Other
+TST-000208,"Hi, I have a question about expense reimbursement for a work trip. Let me know what you need from me.",Other
+TST-000209,"Good morning, I need to reset my password but the reset link never arrives. Thanks in advance for your help.",Account
+TST-000210,"Hi, Everything online feels disconnected today, on and off all morning. Let me know what you need from me.",Network
+TST-000211,"Dear helpdesk, My account shows a login attempt from a location I do not recognize. Let me know what you need from me.",Security
+TST-000212,"Hi support team, My account was merged with another user and now settings are wrong. Any help would be appreciated.",Account
+TST-000213,"Hello, The coffee machine on our floor is out of order again. Any help would be appreciated.",Other
+TST-000214,"Dear helpdesk, My laptop shows connected to wifi but no pages will load. Any help would be appreciated.",Network
+TST-000215,"Dear helpdesk, The docking station is not charging my laptop anymore. This is affecting my work today.",Hardware
+TST-000216,"Hello, The coffee machine on our floor is out of order again. Let me know what you need from me.",Other
+TST-000217,"Good morning, I received a suspicious email asking me to confirm my password. This is affecting my work today.",Security
+TST-000218,"Hello, I cannot log into my account even though I am sure the password is correct. This is affecting my work today.",Account
+TST-000219,"Hi support team, The office wifi keeps disconnecting every few minutes. This is affecting my work today.",Network
+TST-000220,"Hello, The remote desktop connection drops every time I try to log in. I would like this resolved soon.",Network
+TST-000221,"Hello, Can someone update the meeting room booking calendar for next week. Let me know what you need from me.",Other
+TST-000222,"Good morning, None of my saved credentials seem to work anymore this week. I would like this resolved soon.",Account
+TST-000223,"Dear helpdesk, Two-factor authentication is not sending a code to my registered device. This is affecting my work today.",Account
+TST-000224,"Hi support team, I accidentally shared my password with what looked like an internal form. Let me know what you need from me.",Security
+TST-000225,"Hello, My laptop screen stays black even after a full restart. Let me know what you need from me.",Hardware
+TST-000226,"Hi support team, The monitor keeps flickering and sometimes turns off completely. This is affecting my work today.",Hardware
+TST-000227,"Hi support team, My mouse cursor freezes randomly during the day. This is affecting my work today.",Hardware
+TST-000228,"Hi support team, The password reset email for my account never shows up in my inbox. I would like this resolved soon.",Account
+TST-000229,"Hi support team, I am worried something unusual happened with my access this week. I would like this resolved soon.",Security
+TST-000230,"Good morning, The antivirus alert keeps flagging a file I did not download. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Security
+TST-000231,"Good morning, Internet speed on the third floor is extremely slow this morning. Thanks in advance for your help.",Network
+TST-000232,"Good morning, I have a request that does not really fit any technical category. I appreciate the team's help with previous tickets. I would like this resolved soon.",Other
+TST-000233,"Hello, A tool I rely on stopped doing what it used to do correctly. I would like this resolved soon.",Software
+TST-000234,"Dear helpdesk, The calendar sync stopped working after I updated the client. I will be out of office tomorrow afternoon. Please help as soon as possible.",Software
+TST-000235,"Dear helpdesk, Our shared folder permissions changed without anyone approving it. This is affecting my work today.",Security
+TST-000236,"To whom it may concern, Something is wrong with how I sign in and I keep getting rejected. Thanks in advance for your help.",Account
+TST-000237,"Good morning, I need to reset my password but the reset link never arrives. Thanks in advance for your help.",Account
+TST-000238,"Hi, My laptop battery drains fully within thirty minutes. Our team is currently in the middle of a big deadline. Any help would be appreciated.",Hardware
+TST-000239,"Good morning, Internet speed on the third floor is extremely slow this morning. I would like this resolved soon.",Network
+TST-000240,"To whom it may concern, I need to reset my password but the reset link never arrives. I will be out of office tomorrow afternoon. Please help as soon as possible.",Account
+TST-000241,"Good morning, I think my laptop might be infected after clicking a strange link. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Security
+TST-000242,"Hi, The program I use daily behaves unexpectedly since the newest release. I would like this resolved soon.",Software
+TST-000243,"Dear helpdesk, The monitor keeps flickering and sometimes turns off completely. I would like this resolved soon.",Hardware
+TST-000244,"Hi support team, Video calls keep freezing because of a poor connection. Thanks in advance for your help.",Network
+TST-000245,"Hi, Video calls keep freezing because of a poor connection. Let me know what you need from me.",Network
+TST-000246,"Dear helpdesk, The latest update broke the spreadsheet macros I rely on. This has happened once before a few months ago. Please help as soon as possible.",Software
+TST-000247,"Good morning, Could you confirm the parking policy for visitors next month. I will be out of office tomorrow afternoon. Let me know what you need from me.",Other
+TST-000248,"Good morning, Internet speed on the third floor is extremely slow this morning. Please help as soon as possible.",Network
+TST-000249,"To whom it may concern, Is there an update on the office relocation timeline. Thanks in advance for your help.",Other
+TST-000250,"Good morning, Can you tell me who to contact about a facilities request. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Other
+TST-000251,"To whom it may concern, The internal dashboard shows a blank page after the server update. Let me know what you need from me.",Software
+TST-000252,"Hello, I noticed unfamiliar software running in the background of my computer. Let me know what you need from me.",Security
+TST-000253,"Good morning, The latest update broke the spreadsheet macros I rely on. Our team is currently in the middle of a big deadline. Thanks in advance for your help.",Software
+TST-000254,"Good morning, An error dialog appears every time I open the accounting tool. I would like this resolved soon.",Software
+TST-000255,"Hi, A tool I rely on stopped doing what it used to do correctly. Please help as soon as possible.",Software
+TST-000256,"Dear helpdesk, I forgot my username and need help recovering account access. I would like this resolved soon.",Account
+TST-000257,"To whom it may concern, My keyboard has several keys that stopped responding. Let me know what you need from me.",Hardware
+TST-000258,"Good morning, The office wifi keeps disconnecting every few minutes. I would like this resolved soon.",Network
+TST-000259,"Hi, I was logged out of every application and cannot sign back in. I would like this resolved soon.",Account
+TST-000260,"Hi, The reporting application crashes every time I try to export a file. Any help would be appreciated.",Software
+TST-000261,"Good morning, Can someone update the meeting room booking calendar for next week. Please help as soon as possible.",Other
+TST-000262,"Hi, A recent patch removed a feature our whole team depends on. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Software
+TST-000263,"Hi, The antivirus alert keeps flagging a file I did not download. Thanks in advance for your help.",Security
+TST-000264,"Hi, An error dialog appears every time I open the accounting tool. Let me know what you need from me.",Software
+TST-000265,"To whom it may concern, The laptop fan is extremely loud and the case feels hot. Thanks in advance for your help.",Hardware
+TST-000266,"Hello, Something is wrong with how I sign in and I keep getting rejected. Let me know what you need from me.",Account
+TST-000267,"Hi, I cannot connect to the VPN from home today. This is affecting my work today.",Network
+TST-000268,"Good morning, I think my laptop might be infected after clicking a strange link. Thanks in advance for your help.",Security
+TST-000269,"Good morning, A recent patch removed a feature our whole team depends on. Please help as soon as possible.",Software
+TST-000270,"Hi support team, A colleague reported that someone is impersonating our support team. Thanks in advance for your help.",Security
+TST-000271,"Hello, The shared network drive is unreachable from my desktop. This has happened once before a few months ago. Please help as soon as possible.",Network
+TST-000272,"Hi, My profile information is missing after the last account update. Thanks in advance for your help.",Account
+TST-000273,"Hi, Can someone update the meeting room booking calendar for next week. Please help as soon as possible.",Other
+TST-000274,"To whom it may concern, The calendar sync stopped working after I updated the client. Any help would be appreciated.",Software
+TST-000275,"To whom it may concern, I noticed unfamiliar software running in the background of my computer. This is affecting my work today.",Security
+TST-000276,"Hello, I want to suggest an improvement for the internal ticketing process. Thanks in advance for your help.",Other
+TST-000277,"Hi, The docking station is not charging my laptop anymore. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Hardware
+TST-000278,"Hi, The laptop fan is extremely loud and the case feels hot. Thanks in advance for your help.",Hardware
+TST-000279,"To whom it may concern, The reporting application crashes every time I try to export a file. I would like this resolved soon.",Software
+TST-000280,"Hi, I cannot open any document since the last software update. Thanks in advance for your help.",Software
+TST-000281,"To whom it may concern, My account was merged with another user and now settings are wrong. I would like this resolved soon.",Account
+TST-000282,"Hi support team, I noticed unfamiliar software running in the background of my computer. Thanks in advance for your help.",Security
+TST-000283,"Dear helpdesk, I have a question about expense reimbursement for a work trip. I would like this resolved soon.",Other
+TST-000284,"Hi, My laptop shows connected to wifi but no pages will load. Let me know what you need from me.",Network
+TST-000285,"Hi support team, My account shows a login attempt from a location I do not recognize. I would like this resolved soon.",Security
+TST-000286,"Dear helpdesk, The remote desktop connection drops every time I try to log in. Let me know what you need from me.",Network
+TST-000287,"To whom it may concern, The latest update broke the spreadsheet macros I rely on. This is affecting my work today.",Software
+TST-000288,"Good morning, The system says my account is disabled and I do not know why. I would like this resolved soon.",Account
+TST-000289,"Hi, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+TST-000290,"Hello, I get a network unreachable error when opening internal tools. This is affecting my work today.",Network
+TST-000291,"To whom it may concern, The internal dashboard shows a blank page after the server update. Please help as soon as possible.",Software
+TST-000292,"Hello, A colleague reported that someone is impersonating our support team. Please help as soon as possible.",Security
+TST-000293,"Hello, The monitor keeps flickering and sometimes turns off completely. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Hardware
+TST-000294,"Hi support team, A tool I rely on stopped doing what it used to do correctly. This is affecting my work today.",Software
+TST-000295,"Good morning, The shared network drive is unreachable from my desktop. I would like this resolved soon.",Network
+TST-000296,"Dear helpdesk, The coffee machine on our floor is out of order again. I would like this resolved soon.",Other
+TST-000297,"Dear helpdesk, Pages load, then stop loading, then load again without any pattern. Please help as soon as possible.",Network
+TST-000298,"Hi support team, Internet speed on the third floor is extremely slow this morning. I would like this resolved soon.",Network
+TST-000299,"Dear helpdesk, I noticed unfamiliar software running in the background of my computer. Let me know what you need from me.",Security
+TST-000300,"Hello, The monitor keeps flickering and sometimes turns off completely. This is affecting my work today.",Hardware
+TST-000301,"To whom it may concern, I cannot log into my account even though I am sure the password is correct. Let me know what you need from me.",Account
+TST-000302,"Hello, Everything online feels disconnected today, on and off all morning. I would like this resolved soon.",Network
+TST-000303,"Hi, Is there an update on the office relocation timeline. Please help as soon as possible.",Other
+TST-000304,"Dear helpdesk, Our office router seems to restart on its own several times a day. Let me know what you need from me.",Network
+TST-000305,"Hi support team, I have a request that does not really fit any technical category. Let me know what you need from me.",Other
+TST-000306,"Hi, The reporting application crashes every time I try to export a file. Let me know what you need from me.",Software
+TST-000307,"Hello, The system says my account is disabled and I do not know why. This is affecting my work today.",Account
+TST-000308,"Dear helpdesk, The installer fails halfway through with an unknown error code. Any help would be appreciated.",Software
+TST-000309,"To whom it may concern, I accidentally shared my password with what looked like an internal form. Any help would be appreciated.",Security
+TST-000310,"To whom it may concern, I accidentally shared my password with what looked like an internal form. Let me know what you need from me.",Security
+TST-000311,"Good morning, I noticed unfamiliar software running in the background of my computer. Please help as soon as possible.",Security
+TST-000312,"Good morning, An error dialog appears every time I open the accounting tool. Any help would be appreciated.",Software
+TST-000313,"Hello, The mobile app keeps freezing on the login screen. I would like this resolved soon.",Software
+TST-000314,"Hi support team, The shared network drive is unreachable from my desktop. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Network
+TST-000315,"Hi support team, The installer fails halfway through with an unknown error code. I would like this resolved soon.",Software
+TST-000316,"Hi, I want to suggest an improvement for the internal ticketing process. Let me know what you need from me.",Other
+TST-000317,"Dear helpdesk, I accidentally shared my password with what looked like an internal form. Thanks in advance for your help.",Security
+TST-000318,"Hello, The office printer on the second floor is jammed again. This is affecting my work today.",Hardware
+TST-000319,"Hi support team, Someone asked me over chat to send my login details for a system check. Let me know what you need from me.",Security
+TST-000320,"Hello, Two-factor authentication is not sending a code to my registered device. Thanks in advance for your help.",Account
+TST-000321,"Good morning, I forgot my username and need help recovering account access. Please help as soon as possible.",Account
+TST-000322,"Hi support team, An error dialog appears every time I open the accounting tool. I would like this resolved soon.",Software
+TST-000323,"Hi, Could you confirm the parking policy for visitors next month. This is affecting my work today.",Other
+TST-000324,"To whom it may concern, The internal dashboard shows a blank page after the server update. Thanks in advance for your help.",Software
+TST-000325,"Dear helpdesk, Our shared folder permissions changed without anyone approving it. Please help as soon as possible.",Security
+TST-000326,"Good morning, The antivirus alert keeps flagging a file I did not download. Let me know what you need from me.",Security
+TST-000327,"Good morning, The calendar sync stopped working after I updated the client. This is affecting my work today.",Software
+TST-000328,"Hi, Video calls keep freezing because of a poor connection. Thanks in advance for your help.",Network
+TST-000329,"Hi, I cannot log into my account even though I am sure the password is correct. This is affecting my work today.",Account
+TST-000330,"Dear helpdesk, The system says my account is disabled and I do not know why. Please help as soon as possible.",Account
+TST-000331,"Good morning, Something is wrong with how I sign in and I keep getting rejected. I would like this resolved soon.",Account
+TST-000332,"Hi, I cannot log into my account even though I am sure the password is correct. Thanks in advance for your help.",Account
+TST-000333,"Hi, The shared network drive is unreachable from my desktop. I will be out of office tomorrow afternoon. Please help as soon as possible.",Network
+TST-000334,"Good morning, I cannot connect to the VPN from home today. I would like this resolved soon.",Network
+TST-000335,"Dear helpdesk, An error dialog appears every time I open the accounting tool. I would like this resolved soon.",Software
+TST-000336,"Hi support team, My account shows a login attempt from a location I do not recognize. Any help would be appreciated.",Security
+TST-000337,"To whom it may concern, My laptop screen stays black even after a full restart. I would like this resolved soon.",Hardware
+TST-000338,"To whom it may concern, I was logged out of every application and cannot sign back in. This is affecting my work today.",Account
+TST-000339,"Good morning, The office printer on the second floor is jammed again. Thanks in advance for your help.",Hardware
+TST-000340,"Hello, Our shared folder permissions changed without anyone approving it. Let me know what you need from me.",Security
+TST-000341,"To whom it may concern, The internal dashboard shows a blank page after the server update. Any help would be appreciated.",Software
+TST-000342,"To whom it may concern, The docking station is not charging my laptop anymore. This has happened once before a few months ago. Let me know what you need from me.",Hardware
+TST-000343,"Hello, I have a question about expense reimbursement for a work trip. Any help would be appreciated.",Other
+TST-000344,"Hello, My profile information is missing after the last account update. This is affecting my work today.",Account
+TST-000345,"Hi support team, The system says my account is disabled and I do not know why. Let me know what you need from me.",Account
+TST-000346,"To whom it may concern, The office wifi keeps disconnecting every few minutes. Let me know what you need from me.",Network
+TST-000347,"Hi, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+TST-000348,"Hi, The password reset email for my account never shows up in my inbox. Let me know what you need from me.",Account
+TST-000349,"Hello, Internet speed on the third floor is extremely slow this morning. Thanks in advance for your help.",Network
+TST-000350,"Dear helpdesk, The office printer on the second floor is jammed again. Thanks in advance for your help.",Hardware
+TST-000351,"Good morning, Our office router seems to restart on its own several times a day. Let me know what you need from me.",Network
+TST-000352,"To whom it may concern, My laptop battery drains fully within thirty minutes. This has happened once before a few months ago. Thanks in advance for your help.",Hardware
+TST-000353,"Hello, I cannot open any document since the last software update. Thanks in advance for your help.",Software
+TST-000354,"Hi, The system says my account is disabled and I do not know why. This is the second time I am reporting a similar issue this quarter. This is affecting my work today.",Account
+TST-000355,"Dear helpdesk, Video calls keep freezing because of a poor connection. This is the second time I am reporting a similar issue this quarter. Any help would be appreciated.",Network
+TST-000356,"To whom it may concern, I want to suggest an improvement for the internal ticketing process. This is affecting my work today.",Other
+TST-000357,"Hello, My profile information is missing after the last account update. This has happened once before a few months ago. This is affecting my work today.",Account
+TST-000358,"Dear helpdesk, Video calls keep freezing because of a poor connection. Any help would be appreciated.",Network
+TST-000359,"Hello, Something about a recent message felt off and I want a second opinion. Please help as soon as possible.",Security
+TST-000360,"To whom it may concern, My laptop battery drains fully within thirty minutes. Any help would be appreciated.",Hardware
+TST-000361,"Hi, I am worried something unusual happened with my access this week. Let me know what you need from me.",Security
+TST-000362,"Hi support team, Is there an update on the office relocation timeline. I would like this resolved soon.",Other
+TST-000363,"Hi, The docking station is not charging my laptop anymore. Any help would be appreciated.",Hardware
+TST-000364,"Hi support team, None of my saved credentials seem to work anymore this week. I would like this resolved soon.",Account
+TST-000365,"Hello, Can someone update the meeting room booking calendar for next week. This is affecting my work today.",Other
+TST-000366,"Hi, I have a general question about the new office badge policy. Any help would be appreciated.",Other
+TST-000367,"Hi, My license for the design software appears to have expired. Any help would be appreciated.",Software
+TST-000368,"Dear helpdesk, The latest update broke the spreadsheet macros I rely on. Let me know what you need from me.",Software
+TST-000369,"Hello, I am worried something unusual happened with my access this week. Please help as soon as possible.",Security
+TST-000370,"Hi support team, My account got locked after too many failed login attempts. Any help would be appreciated.",Account
+TST-000371,"Hello, A recent patch removed a feature our whole team depends on. Let me know what you need from me.",Software
+TST-000372,"Dear helpdesk, This is more of a general office matter than a computer problem. Any help would be appreciated.",Other
+TST-000373,"Dear helpdesk, Could you confirm the parking policy for visitors next month. I would like this resolved soon.",Other
+TST-000374,"Hi support team, I would like feedback on the recent helpdesk satisfaction survey. Thanks in advance for your help.",Other
+TST-000375,"Hi, My account was merged with another user and now settings are wrong. I would like this resolved soon.",Account
+TST-000376,"Hi support team, The installer fails halfway through with an unknown error code. I would like this resolved soon.",Software
+TST-000377,"Hello, I cannot open any document since the last software update. Please help as soon as possible.",Software
+TST-000378,"To whom it may concern, I want to suggest an improvement for the internal ticketing process. I would like this resolved soon.",Other
+TST-000379,"Hello, The laptop fan is extremely loud and the case feels hot. I would like this resolved soon.",Hardware
+TST-000380,"To whom it may concern, The shared network drive is unreachable from my desktop. This is affecting my work today.",Network
+TST-000381,"Hello, The office wifi keeps disconnecting every few minutes. Thanks in advance for your help.",Network
+TST-000382,"To whom it may concern, I noticed unfamiliar software running in the background of my computer. Any help would be appreciated.",Security
+TST-000383,"Dear helpdesk, My laptop screen stays black even after a full restart. Please help as soon as possible.",Hardware
+TST-000384,"To whom it may concern, The physical machine on my desk is behaving strangely since yesterday. This has happened once before a few months ago. Please help as soon as possible.",Hardware
+TST-000385,"Good morning, My license for the design software appears to have expired. Any help would be appreciated.",Software
+TST-000386,"Dear helpdesk, The physical machine on my desk is behaving strangely since yesterday. This is affecting my work today.",Hardware
+TST-000387,"Good morning, A firmware update left my laptop stuck on the boot screen. Let me know what you need from me.",Hardware
+TST-000388,"Hi, The webcam on my laptop is not detected by any application. Any help would be appreciated.",Hardware
+TST-000389,"Dear helpdesk, I would like to request a new desk chair for the office. Any help would be appreciated.",Other
+TST-000390,"Good morning, Is there an update on the office relocation timeline. By the way, thank you for the fast response last time. This is affecting my work today.",Other
+TST-000391,"Good morning, A recent patch removed a feature our whole team depends on. This is affecting my work today.",Software
+TST-000392,"Good morning, I accidentally shared my password with what looked like an internal form. Thanks in advance for your help.",Security
+TST-000393,"Dear helpdesk, Everything online feels disconnected today, on and off all morning. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Network
+TST-000394,"Dear helpdesk, The latest update broke the spreadsheet macros I rely on. This is affecting my work today.",Software
+TST-000395,"Good morning, I cannot log into my account even though I am sure the password is correct. This is affecting my work today.",Account
+TST-000396,"To whom it may concern, Two-factor authentication is not sending a code to my registered device. Let me know what you need from me.",Account
+TST-000397,"Hi support team, I get a network unreachable error when opening internal tools. Please help as soon as possible.",Network
+TST-000398,"Hi, My license for the design software appears to have expired. Please help as soon as possible.",Software
+TST-000399,"To whom it may concern, Can someone update the meeting room booking calendar for next week. I appreciate the team's help with previous tickets. Please help as soon as possible.",Other
+TST-000400,"Hi, I am worried something unusual happened with my access this week. Let me know what you need from me.",Security
+TST-000401,"Dear helpdesk, Is there an update on the office relocation timeline. I would like this resolved soon.",Other
+TST-000402,"Dear helpdesk, I have a general question about the new office badge policy. This is affecting my work today.",Other
+TST-000403,"To whom it may concern, The password reset email for my account never shows up in my inbox. This has happened once before a few months ago. Thanks in advance for your help.",Account
+TST-000404,"Good morning, My account got locked after too many failed login attempts. This is affecting my work today.",Account
+TST-000405,"Dear helpdesk, The mobile app keeps freezing on the login screen. Please help as soon as possible.",Software
+TST-000406,"Hi support team, Video calls keep freezing because of a poor connection. Please help as soon as possible.",Network
+TST-000407,"Hi, The office wifi keeps disconnecting every few minutes. I appreciate the team's help with previous tickets. This is affecting my work today.",Network
+TST-000408,"To whom it may concern, The shared network drive is unreachable from my desktop. Any help would be appreciated.",Network
+TST-000409,"To whom it may concern, My laptop screen stays black even after a full restart. Any help would be appreciated.",Hardware
+TST-000410,"Dear helpdesk, My profile information is missing after the last account update. Let me know what you need from me.",Account
+TST-000411,"Good morning, The program I use daily behaves unexpectedly since the newest release. Let me know what you need from me.",Software
+TST-000412,"Hi, My account got locked after too many failed login attempts. I would like this resolved soon.",Account
+TST-000413,"Good morning, A tool I rely on stopped doing what it used to do correctly. I will be out of office tomorrow afternoon. This is affecting my work today.",Software
+TST-000414,"Good morning, I cannot open any document since the last software update. Let me know what you need from me.",Software
+TST-000415,"Hi, An error dialog appears every time I open the accounting tool. I would like this resolved soon.",Software
+TST-000416,"To whom it may concern, The monitor keeps flickering and sometimes turns off completely. Thanks in advance for your help.",Hardware
+TST-000417,"To whom it may concern, Video calls keep freezing because of a poor connection. This is affecting my work today.",Network
+TST-000418,"Hi, The calendar sync stopped working after I updated the client. Thanks in advance for your help.",Software
+TST-000419,"Hi support team, My profile information is missing after the last account update. I would like this resolved soon.",Account
+TST-000420,"Good morning, The webcam on my laptop is not detected by any application. Thanks in advance for your help.",Hardware
+TST-000421,"Hello, The antivirus alert keeps flagging a file I did not download. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Security
+TST-000422,"Good morning, The webcam on my laptop is not detected by any application. Let me know what you need from me.",Hardware
+TST-000423,"Dear helpdesk, I have a question about expense reimbursement for a work trip. Let me know what you need from me.",Other
+TST-000424,"To whom it may concern, My keyboard has several keys that stopped responding. Any help would be appreciated.",Hardware
+TST-000425,"Good morning, Two-factor authentication is not sending a code to my registered device. Any help would be appreciated.",Account
+TST-000426,"Dear helpdesk, My laptop battery drains fully within thirty minutes. This is affecting my work today.",Hardware
+TST-000427,"To whom it may concern, The shared network drive is unreachable from my desktop. I would like this resolved soon.",Network
+TST-000428,"Dear helpdesk, My account got locked after too many failed login attempts. Please help as soon as possible.",Account
+TST-000429,"Hi support team, My account shows a login attempt from a location I do not recognize. Please help as soon as possible.",Security
+TST-000430,"Hi, I need to reset my password but the reset link never arrives. This has happened once before a few months ago. Any help would be appreciated.",Account
+TST-000431,"Hello, The coffee machine on our floor is out of order again. Any help would be appreciated.",Other
+TST-000432,"Hello, The password reset email for my account never shows up in my inbox. Let me know what you need from me.",Account
+TST-000433,"Hi support team, My laptop screen stays black even after a full restart. Any help would be appreciated.",Hardware
+TST-000434,"Dear helpdesk, Two-factor authentication is not sending a code to my registered device. Thanks in advance for your help.",Account
+TST-000435,"Dear helpdesk, My keyboard has several keys that stopped responding. This has happened once before a few months ago. Any help would be appreciated.",Hardware
+TST-000436,"Hi, Video calls keep freezing because of a poor connection. Thanks in advance for your help.",Network
+TST-000437,"Dear helpdesk, My keyboard has several keys that stopped responding. I would like this resolved soon.",Hardware
+TST-000438,"To whom it may concern, Can someone update the meeting room booking calendar for next week. This is the second time I am reporting a similar issue this quarter. Any help would be appreciated.",Other
+TST-000439,"To whom it may concern, The antivirus alert keeps flagging a file I did not download. I would like this resolved soon.",Security
+TST-000440,"Hi, A firmware update left my laptop stuck on the boot screen. I appreciate the team's help with previous tickets. This is affecting my work today.",Hardware
+TST-000441,"Good morning, The monitor keeps flickering and sometimes turns off completely. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Hardware
+TST-000442,"Hi support team, My license for the design software appears to have expired. Thanks in advance for your help.",Software
+TST-000443,"Dear helpdesk, The ethernet port in the meeting room does not seem to work. Please help as soon as possible.",Network
+TST-000444,"Hi, My laptop battery drains fully within thirty minutes. I would like this resolved soon.",Hardware
+TST-000445,"Hello, The ethernet port in the meeting room does not seem to work. Thanks in advance for your help.",Network
+TST-000446,"Hi support team, My account was merged with another user and now settings are wrong. Thanks in advance for your help.",Account
+TST-000447,"Dear helpdesk, The password reset email for my account never shows up in my inbox. I would like this resolved soon.",Account
+TST-000448,"Hello, The shared network drive is unreachable from my desktop. By the way, thank you for the fast response last time. This is affecting my work today.",Network
+TST-000449,"Hi support team, The physical machine on my desk is behaving strangely since yesterday. Any help would be appreciated.",Hardware
+TST-000450,"Hello, Video calls keep freezing because of a poor connection. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Network
+TST-000451,"Dear helpdesk, I would like to request a new desk chair for the office. I would like this resolved soon.",Other
+TST-000452,"Hi support team, Something about a recent message felt off and I want a second opinion. Please help as soon as possible.",Security

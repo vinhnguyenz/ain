@@ -1,0 +1,25 @@
+ticket_id,text,label
+HARD-000001,"Hi support team, I cannot log into my acconut even though I am sure the passowrd is correct. Let me know what you need from me.",Account
+HARD-000002,"Hi support team, None of my saved credentials seem to work anymore this week. Thanks in advance for your help.",Account
+HARD-000003,This is the second time I am reporting a similar issue this quarter. This is the second time I am reporting a similar issue this quarter. I cannot log into my account even though I am sure the password is correct. This has happened once before a few months ago.,Account
+HARD-000004,"Hello, The offcie wifi keeps disconnecting every few minuets. This is affecting my work today.",Network
+HARD-000005,"Hello, Pages load, then stop loading, then load again without any pattern. Thanks in advance for your help.",Network
+HARD-000006,"This is the second time I am reporting a similar issue this quarter. I will be out of office tomorrow afternoon. The office wifi keeps disconnecting every few minutes. By the way, thank you for the fast response last time.",Network
+HARD-000007,"Hi, My laptop screen stays blakc even after a full rstart. Please help as soon as possible.",Hardware
+HARD-000008,"Hello, The physical machine on my desk is behaving strangely since yesterday. I would like this resolved soon.",Hardware
+HARD-000009,This is the second time I am reporting a similar issue this quarter. This has happened once before a few months ago. My laptop screen stays black even after a full restart. I will be out of office tomorrow afternoon.,Hardware
+HARD-000010,"Hi, The reporting application crasehs every time I try to export a fil. Any help would be appreciated.",Software
+HARD-000011,"Dear helpdesk, The program I use daily behaves unexpectedly since the newest release. Please help as soon as possible.",Software
+HARD-000012,This has happened once before a few months ago. This has happened once before a few months ago. The reporting application crashes every time I try to export a file. I appreciate the team's help with previous tickets.,Software
+HARD-000013,"Hi support team, I received a suspicious email asking me to cnofirm my passwodr. Please help as soon as possible.",Security
+HARD-000014,"Hi support team, Something about a recent message felt off and I want a second opinion. Let me know what you need from me.",Security
+HARD-000015,"I will be out of office tomorrow afternoon. By the way, thank you for the fast response last time. I received a suspicious email asking me to confirm my password. Our team is currently in the middle of a big deadline.",Security
+HARD-000016,"Hi, I woudl like to request a new desk char for the office. I would like this resolved soon.",Other
+HARD-000017,"Hi support team, This is more of a general office matter than a computer problem. Let me know what you need from me.",Other
+HARD-000018,"By the way, thank you for the fast response last time. This has happened once before a few months ago. I would like to request a new desk chair for the office. I will be out of office tomorrow afternoon.",Other
+HARD-000019,"Hi, My account got locked after too many failed login attempts. It might also be related to i cannot connect to the vpn from home today. Any help would be appreciated.",Account
+HARD-000020,"To whom it may concern, I cannot connect to the VPN from home today. It might also be related to the office printer on the second floor is jammed again. Let me know what you need from me.",Network
+HARD-000021,"Good morning, The office printer on the second floor is jammed again. It might also be related to my license for the design software appears to have expired. Please help as soon as possible.",Hardware
+HARD-000022,"To whom it may concern, My license for the design software appears to have expired. It might also be related to my account shows a login attempt from a location i do not recognize. Please help as soon as possible.",Software
+HARD-000023,"Hi support team, My account shows a login attempt from a location I do not recognize. It might also be related to can someone update the meeting room booking calendar for next week. Any help would be appreciated.",Security
+HARD-000024,"Hello, Can someone update the meeting room booking calendar for next week. It might also be related to my account got locked after too many failed login attempts. Let me know what you need from me.",Other

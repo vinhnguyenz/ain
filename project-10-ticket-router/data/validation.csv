@@ -1,0 +1,449 @@
+ticket_id,text,label
+VAL-000001,"Hello, I need to reset my password but the reset link never arrives. Please help as soon as possible.",Account
+VAL-000002,"Hello, None of my saved credentials seem to work anymore this week. Let me know what you need from me.",Account
+VAL-000003,"Good morning, I need to reset my password but the reset link never arrives. I would like this resolved soon.",Account
+VAL-000004,"Dear helpdesk, The coffee machine on our floor is out of order again. I would like this resolved soon.",Other
+VAL-000005,"Good morning, I have a general question about the new office badge policy. I would like this resolved soon.",Other
+VAL-000006,"Good morning, I cannot log into my account even though I am sure the password is correct. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Account
+VAL-000007,"Dear helpdesk, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+VAL-000008,"Hi, The docking station is not charging my laptop anymore. I would like this resolved soon.",Hardware
+VAL-000009,"Hi support team, Something is wrong with how I sign in and I keep getting rejected. This is affecting my work today.",Account
+VAL-000010,"Hi, The latest update broke the spreadsheet macros I rely on. Please help as soon as possible.",Software
+VAL-000011,"Hi support team, My laptop battery drains fully within thirty minutes. Please help as soon as possible.",Hardware
+VAL-000012,"Good morning, I cannot log into my account even though I am sure the password is correct. Thanks in advance for your help.",Account
+VAL-000013,"Good morning, I forgot my username and need help recovering account access. I appreciate the team's help with previous tickets. I would like this resolved soon.",Account
+VAL-000014,"Hi, My laptop screen stays black even after a full restart. This is affecting my work today.",Hardware
+VAL-000015,"Hello, The shared network drive is unreachable from my desktop. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Network
+VAL-000016,"Hi, The calendar sync stopped working after I updated the client. Please help as soon as possible.",Software
+VAL-000017,"Hi, I have a question about expense reimbursement for a work trip. Any help would be appreciated.",Other
+VAL-000018,"Good morning, Could you confirm the parking policy for visitors next month. Let me know what you need from me.",Other
+VAL-000019,"Dear helpdesk, I need to reset my password but the reset link never arrives. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Account
+VAL-000020,"To whom it may concern, My account was merged with another user and now settings are wrong. This is affecting my work today.",Account
+VAL-000021,"Dear helpdesk, The webcam on my laptop is not detected by any application. Thanks in advance for your help.",Hardware
+VAL-000022,"Hello, The latest update broke the spreadsheet macros I rely on. I would like this resolved soon.",Software
+VAL-000023,"Hello, My laptop battery drains fully within thirty minutes. Thanks in advance for your help.",Hardware
+VAL-000024,"Hi, I have a general question about the new office badge policy. This is affecting my work today.",Other
+VAL-000025,"To whom it may concern, I would like feedback on the recent helpdesk satisfaction survey. Please help as soon as possible.",Other
+VAL-000026,"Hello, The calendar sync stopped working after I updated the client. Let me know what you need from me.",Software
+VAL-000027,"Dear helpdesk, Something on my desk setup just stopped turning on properly. This is affecting my work today.",Hardware
+VAL-000028,"Hi, I forgot my username and need help recovering account access. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Account
+VAL-000029,"Good morning, A recent patch removed a feature our whole team depends on. I would like this resolved soon.",Software
+VAL-000030,"Hi, I got a message claiming my account will be closed unless I verify it immediately. Please help as soon as possible.",Security
+VAL-000031,"To whom it may concern, The antivirus alert keeps flagging a file I did not download. Our team is currently in the middle of a big deadline. Thanks in advance for your help.",Security
+VAL-000032,"Good morning, Our office router seems to restart on its own several times a day. I would like this resolved soon.",Network
+VAL-000033,"Hello, My account shows a login attempt from a location I do not recognize. I would like this resolved soon.",Security
+VAL-000034,"Hello, My account got locked after too many failed login attempts. This is affecting my work today.",Account
+VAL-000035,"Hi support team, Is there an update on the office relocation timeline. Let me know what you need from me.",Other
+VAL-000036,"Hi support team, A colleague reported that someone is impersonating our support team. Our team is currently in the middle of a big deadline. Any help would be appreciated.",Security
+VAL-000037,"Dear helpdesk, The coffee machine on our floor is out of order again. Thanks in advance for your help.",Other
+VAL-000038,"To whom it may concern, The calendar sync stopped working after I updated the client. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Software
+VAL-000039,"Hi, A firmware update left my laptop stuck on the boot screen. I would like this resolved soon.",Hardware
+VAL-000040,"Dear helpdesk, Something is wrong with how I sign in and I keep getting rejected. Let me know what you need from me.",Account
+VAL-000041,"Hello, The monitor keeps flickering and sometimes turns off completely. Thanks in advance for your help.",Hardware
+VAL-000042,"Hi, Someone asked me over chat to send my login details for a system check. Please help as soon as possible.",Security
+VAL-000043,"Hi, The antivirus alert keeps flagging a file I did not download. Thanks in advance for your help.",Security
+VAL-000044,"Hi, The docking station is not charging my laptop anymore. This is the second time I am reporting a similar issue this quarter. This is affecting my work today.",Hardware
+VAL-000045,"Hi, My laptop screen stays black even after a full restart. I would like this resolved soon.",Hardware
+VAL-000046,"Hello, I was logged out of every application and cannot sign back in. Thanks in advance for your help.",Account
+VAL-000047,"To whom it may concern, My keyboard has several keys that stopped responding. Any help would be appreciated.",Hardware
+VAL-000048,"To whom it may concern, My profile information is missing after the last account update. I would like this resolved soon.",Account
+VAL-000049,"To whom it may concern, My license for the design software appears to have expired. Any help would be appreciated.",Software
+VAL-000050,"To whom it may concern, The webcam on my laptop is not detected by any application. Please help as soon as possible.",Hardware
+VAL-000051,"Hi support team, I cannot log into my account even though I am sure the password is correct. Any help would be appreciated.",Account
+VAL-000052,"Hi support team, My account was merged with another user and now settings are wrong. Let me know what you need from me.",Account
+VAL-000053,"Dear helpdesk, The coffee machine on our floor is out of order again. Any help would be appreciated.",Other
+VAL-000054,"Hello, I cannot open any document since the last software update. Any help would be appreciated.",Software
+VAL-000055,"To whom it may concern, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+VAL-000056,"To whom it may concern, My license for the design software appears to have expired. Please help as soon as possible.",Software
+VAL-000057,"Good morning, The password reset email for my account never shows up in my inbox. I appreciate the team's help with previous tickets. This is affecting my work today.",Account
+VAL-000058,"Good morning, The remote desktop connection drops every time I try to log in. Any help would be appreciated.",Network
+VAL-000059,"Hi, I accidentally shared my password with what looked like an internal form. Thanks in advance for your help.",Security
+VAL-000060,"Hi, The ethernet port in the meeting room does not seem to work. Please help as soon as possible.",Network
+VAL-000061,"Hello, Two-factor authentication is not sending a code to my registered device. Please help as soon as possible.",Account
+VAL-000062,"Dear helpdesk, My laptop shows connected to wifi but no pages will load. Any help would be appreciated.",Network
+VAL-000063,"Good morning, Our shared folder permissions changed without anyone approving it. Let me know what you need from me.",Security
+VAL-000064,"Good morning, A recent patch removed a feature our whole team depends on. By the way, thank you for the fast response last time. I would like this resolved soon.",Software
+VAL-000065,"To whom it may concern, My keyboard has several keys that stopped responding. This has happened once before a few months ago. Let me know what you need from me.",Hardware
+VAL-000066,"Hi support team, The latest update broke the spreadsheet macros I rely on. Any help would be appreciated.",Software
+VAL-000067,"Hi support team, The internal dashboard shows a blank page after the server update. Our team is currently in the middle of a big deadline. This is affecting my work today.",Software
+VAL-000068,"Hi support team, Something on my desk setup just stopped turning on properly. Thanks in advance for your help.",Hardware
+VAL-000069,"To whom it may concern, My laptop screen stays black even after a full restart. I would like this resolved soon.",Hardware
+VAL-000070,"To whom it may concern, My laptop screen stays black even after a full restart. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Hardware
+VAL-000071,"Hi, I get a network unreachable error when opening internal tools. This is affecting my work today.",Network
+VAL-000072,"Dear helpdesk, The shared network drive is unreachable from my desktop. I would like this resolved soon.",Network
+VAL-000073,"Good morning, I need to reset my password but the reset link never arrives. I would like this resolved soon.",Account
+VAL-000074,"Hi, The password reset email for my account never shows up in my inbox. Let me know what you need from me.",Account
+VAL-000075,"Hello, I got a message claiming my account will be closed unless I verify it immediately. Let me know what you need from me.",Security
+VAL-000076,"Good morning, I need to reset my password but the reset link never arrives. Our team is currently in the middle of a big deadline. Let me know what you need from me.",Account
+VAL-000077,"Good morning, Something on my desk setup just stopped turning on properly. I appreciate the team's help with previous tickets. Let me know what you need from me.",Hardware
+VAL-000078,"Hello, I received a suspicious email asking me to confirm my password. I would like this resolved soon.",Security
+VAL-000079,"Hi, The ethernet port in the meeting room does not seem to work. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Network
+VAL-000080,"Dear helpdesk, Our shared folder permissions changed without anyone approving it. Please help as soon as possible.",Security
+VAL-000081,"Hi, The physical machine on my desk is behaving strangely since yesterday. I would like this resolved soon.",Hardware
+VAL-000082,"Hi support team, Something about a recent message felt off and I want a second opinion. Thanks in advance for your help.",Security
+VAL-000083,"Good morning, The password reset email for my account never shows up in my inbox. I will be out of office tomorrow afternoon. Any help would be appreciated.",Account
+VAL-000084,"To whom it may concern, I accidentally shared my password with what looked like an internal form. I would like this resolved soon.",Security
+VAL-000085,"Good morning, The system says my account is disabled and I do not know why. Please help as soon as possible.",Account
+VAL-000086,"To whom it may concern, The ethernet port in the meeting room does not seem to work. I would like this resolved soon.",Network
+VAL-000087,"Good morning, The program I use daily behaves unexpectedly since the newest release. Please help as soon as possible.",Software
+VAL-000088,"To whom it may concern, I received a suspicious email asking me to confirm my password. Please help as soon as possible.",Security
+VAL-000089,"Hi, I cannot open any document since the last software update. Thanks in advance for your help.",Software
+VAL-000090,"To whom it may concern, Can someone update the meeting room booking calendar for next week. Please help as soon as possible.",Other
+VAL-000091,"Hi support team, Video calls keep freezing because of a poor connection. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Network
+VAL-000092,"To whom it may concern, The reporting application crashes every time I try to export a file. Our team is currently in the middle of a big deadline. Any help would be appreciated.",Software
+VAL-000093,"Hello, I cannot log into my account even though I am sure the password is correct. I appreciate the team's help with previous tickets. Let me know what you need from me.",Account
+VAL-000094,"Dear helpdesk, The ethernet port in the meeting room does not seem to work. Please help as soon as possible.",Network
+VAL-000095,"To whom it may concern, I get a network unreachable error when opening internal tools. Any help would be appreciated.",Network
+VAL-000096,"Good morning, My account shows a login attempt from a location I do not recognize. Thanks in advance for your help.",Security
+VAL-000097,"Hi support team, I cannot connect to the VPN from home today. I would like this resolved soon.",Network
+VAL-000098,"Good morning, The office printer on the second floor is jammed again. Thanks in advance for your help.",Hardware
+VAL-000099,"To whom it may concern, Can you tell me who to contact about a facilities request. This is affecting my work today.",Other
+VAL-000100,"Hi, I cannot connect to the VPN from home today. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Network
+VAL-000101,"To whom it may concern, An error dialog appears every time I open the accounting tool. Thanks in advance for your help.",Software
+VAL-000102,"Dear helpdesk, My license for the design software appears to have expired. This is affecting my work today.",Software
+VAL-000103,"Good morning, My account was merged with another user and now settings are wrong. I would like this resolved soon.",Account
+VAL-000104,"To whom it may concern, Could you confirm the parking policy for visitors next month. Thanks in advance for your help.",Other
+VAL-000105,"Hello, My laptop shows connected to wifi but no pages will load. By the way, thank you for the fast response last time. I would like this resolved soon.",Network
+VAL-000106,"Good morning, The latest update broke the spreadsheet macros I rely on. I would like this resolved soon.",Software
+VAL-000107,"Hi support team, The antivirus alert keeps flagging a file I did not download. Our team is currently in the middle of a big deadline. Any help would be appreciated.",Security
+VAL-000108,"Good morning, My laptop screen stays black even after a full restart. Let me know what you need from me.",Hardware
+VAL-000109,"Hi, Our office router seems to restart on its own several times a day. This is affecting my work today.",Network
+VAL-000110,"Dear helpdesk, Everything online feels disconnected today, on and off all morning. Thanks in advance for your help.",Network
+VAL-000111,"Hello, Internet speed on the third floor is extremely slow this morning. Please help as soon as possible.",Network
+VAL-000112,"Hi, The shared network drive is unreachable from my desktop. I would like this resolved soon.",Network
+VAL-000113,"Dear helpdesk, A recent patch removed a feature our whole team depends on. This is affecting my work today.",Software
+VAL-000114,"Dear helpdesk, The webcam on my laptop is not detected by any application. Thanks in advance for your help.",Hardware
+VAL-000115,"Dear helpdesk, Video calls keep freezing because of a poor connection. I appreciate the team's help with previous tickets. This is affecting my work today.",Network
+VAL-000116,"Dear helpdesk, The password reset email for my account never shows up in my inbox. I will be out of office tomorrow afternoon. I would like this resolved soon.",Account
+VAL-000117,"To whom it may concern, None of my saved credentials seem to work anymore this week. Please help as soon as possible.",Account
+VAL-000118,"Hi support team, My license for the design software appears to have expired. Let me know what you need from me.",Software
+VAL-000119,"Dear helpdesk, The password reset email for my account never shows up in my inbox. This is affecting my work today.",Account
+VAL-000120,"Hi support team, I am worried something unusual happened with my access this week. This is affecting my work today.",Security
+VAL-000121,"To whom it may concern, I received a suspicious email asking me to confirm my password. Please help as soon as possible.",Security
+VAL-000122,"Hi, My profile information is missing after the last account update. This is affecting my work today.",Account
+VAL-000123,"To whom it may concern, The installer fails halfway through with an unknown error code. Any help would be appreciated.",Software
+VAL-000124,"Dear helpdesk, I would like to request a new desk chair for the office. I would like this resolved soon.",Other
+VAL-000125,"Hello, This is more of a general office matter than a computer problem. Thanks in advance for your help.",Other
+VAL-000126,"To whom it may concern, The password reset email for my account never shows up in my inbox. Thanks in advance for your help.",Account
+VAL-000127,"Hi, My keyboard has several keys that stopped responding. This is affecting my work today.",Hardware
+VAL-000128,"Hi, I want to suggest an improvement for the internal ticketing process. Please help as soon as possible.",Other
+VAL-000129,"Hello, Two-factor authentication is not sending a code to my registered device. Let me know what you need from me.",Account
+VAL-000130,"To whom it may concern, I have a general question about the new office badge policy. Let me know what you need from me.",Other
+VAL-000131,"Good morning, The reporting application crashes every time I try to export a file. I appreciate the team's help with previous tickets. Let me know what you need from me.",Software
+VAL-000132,"Good morning, The monitor keeps flickering and sometimes turns off completely. Any help would be appreciated.",Hardware
+VAL-000133,"Dear helpdesk, The system says my account is disabled and I do not know why. Let me know what you need from me.",Account
+VAL-000134,"Dear helpdesk, Something about a recent message felt off and I want a second opinion. Let me know what you need from me.",Security
+VAL-000135,"Dear helpdesk, I cannot open any document since the last software update. I would like this resolved soon.",Software
+VAL-000136,"Good morning, My laptop shows connected to wifi but no pages will load. This is affecting my work today.",Network
+VAL-000137,"Hi, I think my laptop might be infected after clicking a strange link. I will be out of office tomorrow afternoon. Let me know what you need from me.",Security
+VAL-000138,"To whom it may concern, The coffee machine on our floor is out of order again. Let me know what you need from me.",Other
+VAL-000139,"Hello, I cannot log into my account even though I am sure the password is correct. Any help would be appreciated.",Account
+VAL-000140,"Hi, The docking station is not charging my laptop anymore. Any help would be appreciated.",Hardware
+VAL-000141,"Hi, The internal dashboard shows a blank page after the server update. This is affecting my work today.",Software
+VAL-000142,"Hi, Video calls keep freezing because of a poor connection. Please help as soon as possible.",Network
+VAL-000143,"Hi, The password reset email for my account never shows up in my inbox. Thanks in advance for your help.",Account
+VAL-000144,"Hello, The shared network drive is unreachable from my desktop. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Network
+VAL-000145,"Hi support team, The password reset email for my account never shows up in my inbox. Thanks in advance for your help.",Account
+VAL-000146,"Hello, A firmware update left my laptop stuck on the boot screen. Let me know what you need from me.",Hardware
+VAL-000147,"Dear helpdesk, Everything online feels disconnected today, on and off all morning. Please help as soon as possible.",Network
+VAL-000148,"Dear helpdesk, The password reset email for my account never shows up in my inbox. Any help would be appreciated.",Account
+VAL-000149,"Hi support team, None of my saved credentials seem to work anymore this week. Please help as soon as possible.",Account
+VAL-000150,"Hi, I have a request that does not really fit any technical category. This is affecting my work today.",Other
+VAL-000151,"Hello, The office wifi keeps disconnecting every few minutes. Thanks in advance for your help.",Network
+VAL-000152,"Dear helpdesk, I noticed unfamiliar software running in the background of my computer. Thanks in advance for your help.",Security
+VAL-000153,"Dear helpdesk, My account was merged with another user and now settings are wrong. This is affecting my work today.",Account
+VAL-000154,"To whom it may concern, The internal dashboard shows a blank page after the server update. By the way, thank you for the fast response last time. This is affecting my work today.",Software
+VAL-000155,"To whom it may concern, The password reset email for my account never shows up in my inbox. Please help as soon as possible.",Account
+VAL-000156,"Dear helpdesk, I have a question about expense reimbursement for a work trip. Please help as soon as possible.",Other
+VAL-000157,"Good morning, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+VAL-000158,"Hello, I noticed unfamiliar software running in the background of my computer. This is affecting my work today.",Security
+VAL-000159,"Hi, The system says my account is disabled and I do not know why. Any help would be appreciated.",Account
+VAL-000160,"Good morning, My profile information is missing after the last account update. I will be out of office tomorrow afternoon. Let me know what you need from me.",Account
+VAL-000161,"Hi, I forgot my username and need help recovering account access. Let me know what you need from me.",Account
+VAL-000162,"Hello, A recent patch removed a feature our whole team depends on. This is affecting my work today.",Software
+VAL-000163,"To whom it may concern, Internet speed on the third floor is extremely slow this morning. I would like this resolved soon.",Network
+VAL-000164,"Hello, I cannot log into my account even though I am sure the password is correct. This is affecting my work today.",Account
+VAL-000165,"Hi support team, The office wifi keeps disconnecting every few minutes. I would like this resolved soon.",Network
+VAL-000166,"To whom it may concern, An error dialog appears every time I open the accounting tool. By the way, thank you for the fast response last time. Please help as soon as possible.",Software
+VAL-000167,"Hi support team, The docking station is not charging my laptop anymore. Please help as soon as possible.",Hardware
+VAL-000168,"Good morning, I would like to request a new desk chair for the office. I will be out of office tomorrow afternoon. Let me know what you need from me.",Other
+VAL-000169,"To whom it may concern, I would like to request a new desk chair for the office. Let me know what you need from me.",Other
+VAL-000170,"Good morning, The webcam on my laptop is not detected by any application. This is affecting my work today.",Hardware
+VAL-000171,"Hi support team, My license for the design software appears to have expired. Please help as soon as possible.",Software
+VAL-000172,"Hi support team, An error dialog appears every time I open the accounting tool. This is affecting my work today.",Software
+VAL-000173,"Hi, The ethernet port in the meeting room does not seem to work. This is affecting my work today.",Network
+VAL-000174,"Good morning, I am worried something unusual happened with my access this week. Let me know what you need from me.",Security
+VAL-000175,"Hello, The monitor keeps flickering and sometimes turns off completely. This is the second time I am reporting a similar issue this quarter. This is affecting my work today.",Hardware
+VAL-000176,"Dear helpdesk, Our office router seems to restart on its own several times a day. I would like this resolved soon.",Network
+VAL-000177,"Hi, My profile information is missing after the last account update. This is affecting my work today.",Account
+VAL-000178,"Hello, I would like to request a new desk chair for the office. Any help would be appreciated.",Other
+VAL-000179,"Dear helpdesk, The antivirus alert keeps flagging a file I did not download. Let me know what you need from me.",Security
+VAL-000180,"Hello, The ethernet port in the meeting room does not seem to work. Thanks in advance for your help.",Network
+VAL-000181,"Good morning, Could you confirm the parking policy for visitors next month. I appreciate the team's help with previous tickets. Let me know what you need from me.",Other
+VAL-000182,"Hi, The password reset email for my account never shows up in my inbox. This is the second time I am reporting a similar issue this quarter. Please help as soon as possible.",Account
+VAL-000183,"Hello, My laptop shows connected to wifi but no pages will load. Please help as soon as possible.",Network
+VAL-000184,"Hello, I have a general question about the new office badge policy. This is affecting my work today.",Other
+VAL-000185,"Hi, My mouse cursor freezes randomly during the day. This has happened once before a few months ago. Thanks in advance for your help.",Hardware
+VAL-000186,"Good morning, I want to suggest an improvement for the internal ticketing process. I would like this resolved soon.",Other
+VAL-000187,"Hi support team, I think my laptop might be infected after clicking a strange link. This is the second time I am reporting a similar issue this quarter. Let me know what you need from me.",Security
+VAL-000188,"Hello, A firmware update left my laptop stuck on the boot screen. Please help as soon as possible.",Hardware
+VAL-000189,"Hello, Could you confirm the parking policy for visitors next month. Please help as soon as possible.",Other
+VAL-000190,"Hello, Could you confirm the parking policy for visitors next month. Thanks in advance for your help.",Other
+VAL-000191,"Hi support team, The monitor keeps flickering and sometimes turns off completely. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Hardware
+VAL-000192,"Dear helpdesk, The remote desktop connection drops every time I try to log in. This is affecting my work today.",Network
+VAL-000193,"Hello, I was logged out of every application and cannot sign back in. Thanks in advance for your help.",Account
+VAL-000194,"Dear helpdesk, I have a question about expense reimbursement for a work trip. This is affecting my work today.",Other
+VAL-000195,"Dear helpdesk, I was logged out of every application and cannot sign back in. By the way, thank you for the fast response last time. Let me know what you need from me.",Account
+VAL-000196,"Hi support team, Our office router seems to restart on its own several times a day. By the way, thank you for the fast response last time. Any help would be appreciated.",Network
+VAL-000197,"Dear helpdesk, I cannot log into my account even though I am sure the password is correct. I would like this resolved soon.",Account
+VAL-000198,"Hi support team, I would like feedback on the recent helpdesk satisfaction survey. This is affecting my work today.",Other
+VAL-000199,"Good morning, I am worried something unusual happened with my access this week. I would like this resolved soon.",Security
+VAL-000200,"Hi, I have a general question about the new office badge policy. Please help as soon as possible.",Other
+VAL-000201,"Hi support team, The installer fails halfway through with an unknown error code. Let me know what you need from me.",Software
+VAL-000202,"Hello, My profile information is missing after the last account update. I would like this resolved soon.",Account
+VAL-000203,"Hello, My keyboard has several keys that stopped responding. Any help would be appreciated.",Hardware
+VAL-000204,"Hi support team, My account shows a login attempt from a location I do not recognize. By the way, thank you for the fast response last time. Thanks in advance for your help.",Security
+VAL-000205,"Good morning, The shared network drive is unreachable from my desktop. Thanks in advance for your help.",Network
+VAL-000206,"Dear helpdesk, The mobile app keeps freezing on the login screen. Please help as soon as possible.",Software
+VAL-000207,"Dear helpdesk, I would like to request a new desk chair for the office. This is affecting my work today.",Other
+VAL-000208,"Good morning, My keyboard has several keys that stopped responding. Let me know what you need from me.",Hardware
+VAL-000209,"Hello, The ethernet port in the meeting room does not seem to work. This is affecting my work today.",Network
+VAL-000210,"Hi, The office printer on the second floor is jammed again. Let me know what you need from me.",Hardware
+VAL-000211,"Hi, I accidentally shared my password with what looked like an internal form. I would like this resolved soon.",Security
+VAL-000212,"Hello, I get a network unreachable error when opening internal tools. Thanks in advance for your help.",Network
+VAL-000213,"Good morning, Something on my desk setup just stopped turning on properly. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Hardware
+VAL-000214,"Good morning, The reporting application crashes every time I try to export a file. This is affecting my work today.",Software
+VAL-000215,"To whom it may concern, Can someone update the meeting room booking calendar for next week. Any help would be appreciated.",Other
+VAL-000216,"Good morning, I get a network unreachable error when opening internal tools. Any help would be appreciated.",Network
+VAL-000217,"Good morning, The monitor keeps flickering and sometimes turns off completely. I would like this resolved soon.",Hardware
+VAL-000218,"Dear helpdesk, Can you tell me who to contact about a facilities request. I will be out of office tomorrow afternoon. I would like this resolved soon.",Other
+VAL-000219,"Dear helpdesk, The antivirus alert keeps flagging a file I did not download. By the way, thank you for the fast response last time. This is affecting my work today.",Security
+VAL-000220,"Good morning, Is there an update on the office relocation timeline. Any help would be appreciated.",Other
+VAL-000221,"Hi, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+VAL-000222,"Dear helpdesk, I cannot log into my account even though I am sure the password is correct. Please help as soon as possible.",Account
+VAL-000223,"To whom it may concern, My mouse cursor freezes randomly during the day. I would like this resolved soon.",Hardware
+VAL-000224,"Hi, Someone asked me over chat to send my login details for a system check. Any help would be appreciated.",Security
+VAL-000225,"To whom it may concern, The reporting application crashes every time I try to export a file. This has happened once before a few months ago. Please help as soon as possible.",Software
+VAL-000226,"Dear helpdesk, Someone asked me over chat to send my login details for a system check. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Security
+VAL-000227,"Hello, Our shared folder permissions changed without anyone approving it. This has happened once before a few months ago. I would like this resolved soon.",Security
+VAL-000228,"To whom it may concern, I would like to request a new desk chair for the office. Thanks in advance for your help.",Other
+VAL-000229,"Good morning, The latest update broke the spreadsheet macros I rely on. This is affecting my work today.",Software
+VAL-000230,"To whom it may concern, The mobile app keeps freezing on the login screen. I would like this resolved soon.",Software
+VAL-000231,"Good morning, The laptop fan is extremely loud and the case feels hot. This has happened once before a few months ago. Any help would be appreciated.",Hardware
+VAL-000232,"Hello, I would like to request a new desk chair for the office. Please help as soon as possible.",Other
+VAL-000233,"Good morning, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+VAL-000234,"Hi, My keyboard has several keys that stopped responding. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Hardware
+VAL-000235,"Good morning, My license for the design software appears to have expired. Any help would be appreciated.",Software
+VAL-000236,"To whom it may concern, The office printer on the second floor is jammed again. Any help would be appreciated.",Hardware
+VAL-000237,"Hi, The reporting application crashes every time I try to export a file. Thanks in advance for your help.",Software
+VAL-000238,"Hi support team, Our shared folder permissions changed without anyone approving it. Thanks in advance for your help.",Security
+VAL-000239,"To whom it may concern, The installer fails halfway through with an unknown error code. Thanks in advance for your help.",Software
+VAL-000240,"Hello, I forgot my username and need help recovering account access. This has happened once before a few months ago. Any help would be appreciated.",Account
+VAL-000241,"To whom it may concern, I forgot my username and need help recovering account access. Let me know what you need from me.",Account
+VAL-000242,"Hello, My account was merged with another user and now settings are wrong. This has happened once before a few months ago. Thanks in advance for your help.",Account
+VAL-000243,"Dear helpdesk, I get a network unreachable error when opening internal tools. Let me know what you need from me.",Network
+VAL-000244,"Hi support team, I have a general question about the new office badge policy. Let me know what you need from me.",Other
+VAL-000245,"Hello, A colleague reported that someone is impersonating our support team. Thanks in advance for your help.",Security
+VAL-000246,"Hi support team, I cannot connect to the VPN from home today. This is affecting my work today.",Network
+VAL-000247,"Hi, Our shared folder permissions changed without anyone approving it. Please help as soon as possible.",Security
+VAL-000248,"To whom it may concern, Everything online feels disconnected today, on and off all morning. I appreciate the team's help with previous tickets. Any help would be appreciated.",Network
+VAL-000249,"Hi support team, The remote desktop connection drops every time I try to log in. Let me know what you need from me.",Network
+VAL-000250,"Hi support team, I cannot log into my account even though I am sure the password is correct. Any help would be appreciated.",Account
+VAL-000251,"Hi support team, I want to suggest an improvement for the internal ticketing process. Please help as soon as possible.",Other
+VAL-000252,"Good morning, The internal dashboard shows a blank page after the server update. Please help as soon as possible.",Software
+VAL-000253,"Hi, I was logged out of every application and cannot sign back in. I would like this resolved soon.",Account
+VAL-000254,"Hello, I cannot open any document since the last software update. Please help as soon as possible.",Software
+VAL-000255,"Hi support team, The coffee machine on our floor is out of order again. This is affecting my work today.",Other
+VAL-000256,"Hi, An error dialog appears every time I open the accounting tool. Thanks in advance for your help.",Software
+VAL-000257,"To whom it may concern, My account shows a login attempt from a location I do not recognize. Any help would be appreciated.",Security
+VAL-000258,"Dear helpdesk, My profile information is missing after the last account update. Let me know what you need from me.",Account
+VAL-000259,"To whom it may concern, Something about a recent message felt off and I want a second opinion. Please help as soon as possible.",Security
+VAL-000260,"Hi support team, A recent patch removed a feature our whole team depends on. Please help as soon as possible.",Software
+VAL-000261,"Good morning, Our office router seems to restart on its own several times a day. I would like this resolved soon.",Network
+VAL-000262,"To whom it may concern, A firmware update left my laptop stuck on the boot screen. I will be out of office tomorrow afternoon. Let me know what you need from me.",Hardware
+VAL-000263,"To whom it may concern, I got a message claiming my account will be closed unless I verify it immediately. Any help would be appreciated.",Security
+VAL-000264,"Dear helpdesk, My profile information is missing after the last account update. Any help would be appreciated.",Account
+VAL-000265,"Hi, I got a message claiming my account will be closed unless I verify it immediately. Please help as soon as possible.",Security
+VAL-000266,"Dear helpdesk, The installer fails halfway through with an unknown error code. This has happened once before a few months ago. I would like this resolved soon.",Software
+VAL-000267,"Dear helpdesk, I think my laptop might be infected after clicking a strange link. Any help would be appreciated.",Security
+VAL-000268,"Good morning, I would like feedback on the recent helpdesk satisfaction survey. Please help as soon as possible.",Other
+VAL-000269,"Hi support team, The system says my account is disabled and I do not know why. This has happened once before a few months ago. I would like this resolved soon.",Account
+VAL-000270,"Good morning, Two-factor authentication is not sending a code to my registered device. Please help as soon as possible.",Account
+VAL-000271,"Dear helpdesk, The mobile app keeps freezing on the login screen. Any help would be appreciated.",Software
+VAL-000272,"Good morning, The webcam on my laptop is not detected by any application. Thanks in advance for your help.",Hardware
+VAL-000273,"Hello, My profile information is missing after the last account update. I would like this resolved soon.",Account
+VAL-000274,"Hi, The antivirus alert keeps flagging a file I did not download. Let me know what you need from me.",Security
+VAL-000275,"Good morning, The shared network drive is unreachable from my desktop. Let me know what you need from me.",Network
+VAL-000276,"Hi, I was logged out of every application and cannot sign back in. I would like this resolved soon.",Account
+VAL-000277,"Good morning, The system says my account is disabled and I do not know why. Any help would be appreciated.",Account
+VAL-000278,"To whom it may concern, I cannot connect to the VPN from home today. Any help would be appreciated.",Network
+VAL-000279,"Hi, The office printer on the second floor is jammed again. Please help as soon as possible.",Hardware
+VAL-000280,"Hello, I got a message claiming my account will be closed unless I verify it immediately. Any help would be appreciated.",Security
+VAL-000281,"Hello, The shared network drive is unreachable from my desktop. This is the second time I am reporting a similar issue this quarter. Please help as soon as possible.",Network
+VAL-000282,"Hi, Internet speed on the third floor is extremely slow this morning. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Network
+VAL-000283,"Good morning, Internet speed on the third floor is extremely slow this morning. This is affecting my work today.",Network
+VAL-000284,"Dear helpdesk, The monitor keeps flickering and sometimes turns off completely. This is the second time I am reporting a similar issue this quarter. Thanks in advance for your help.",Hardware
+VAL-000285,"Hi support team, I get a network unreachable error when opening internal tools. Let me know what you need from me.",Network
+VAL-000286,"To whom it may concern, I would like feedback on the recent helpdesk satisfaction survey. Thanks in advance for your help.",Other
+VAL-000287,"Good morning, The antivirus alert keeps flagging a file I did not download. Thanks in advance for your help.",Security
+VAL-000288,"Hi support team, Two-factor authentication is not sending a code to my registered device. I would like this resolved soon.",Account
+VAL-000289,"Good morning, The system says my account is disabled and I do not know why. Thanks in advance for your help.",Account
+VAL-000290,"Hi support team, My profile information is missing after the last account update. Let me know what you need from me.",Account
+VAL-000291,"Good morning, I would like feedback on the recent helpdesk satisfaction survey. I would like this resolved soon.",Other
+VAL-000292,"Hello, I received a suspicious email asking me to confirm my password. Any help would be appreciated.",Security
+VAL-000293,"Dear helpdesk, My laptop battery drains fully within thirty minutes. Let me know what you need from me.",Hardware
+VAL-000294,"To whom it may concern, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+VAL-000295,"Hello, I need to reset my password but the reset link never arrives. Any help would be appreciated.",Account
+VAL-000296,"Dear helpdesk, Can someone update the meeting room booking calendar for next week. I would like this resolved soon.",Other
+VAL-000297,"Hi, I have a question about expense reimbursement for a work trip. Let me know what you need from me.",Other
+VAL-000298,"Dear helpdesk, A tool I rely on stopped doing what it used to do correctly. Thanks in advance for your help.",Software
+VAL-000299,"Good morning, A tool I rely on stopped doing what it used to do correctly. This is affecting my work today.",Software
+VAL-000300,"Hello, I have a general question about the new office badge policy. This is affecting my work today.",Other
+VAL-000301,"Dear helpdesk, The password reset email for my account never shows up in my inbox. Please help as soon as possible.",Account
+VAL-000302,"To whom it may concern, I was logged out of every application and cannot sign back in. Please help as soon as possible.",Account
+VAL-000303,"Hi, My profile information is missing after the last account update. Thanks in advance for your help.",Account
+VAL-000304,"Hi, The antivirus alert keeps flagging a file I did not download. This is affecting my work today.",Security
+VAL-000305,"Dear helpdesk, I cannot log into my account even though I am sure the password is correct. I would like this resolved soon.",Account
+VAL-000306,"To whom it may concern, I get a network unreachable error when opening internal tools. I will be out of office tomorrow afternoon. This is affecting my work today.",Network
+VAL-000307,"Hello, I accidentally shared my password with what looked like an internal form. Please help as soon as possible.",Security
+VAL-000308,"To whom it may concern, The password reset email for my account never shows up in my inbox. Thanks in advance for your help.",Account
+VAL-000309,"Dear helpdesk, I have a request that does not really fit any technical category. Thanks in advance for your help.",Other
+VAL-000310,"Good morning, The docking station is not charging my laptop anymore. Please help as soon as possible.",Hardware
+VAL-000311,"Good morning, The monitor keeps flickering and sometimes turns off completely. Any help would be appreciated.",Hardware
+VAL-000312,"Hi support team, The latest update broke the spreadsheet macros I rely on. Our team is currently in the middle of a big deadline. This is affecting my work today.",Software
+VAL-000313,"Hi support team, Something is wrong with how I sign in and I keep getting rejected. This is the second time I am reporting a similar issue this quarter. Please help as soon as possible.",Account
+VAL-000314,"Hi support team, Can someone update the meeting room booking calendar for next week. I would like this resolved soon.",Other
+VAL-000315,"Hi, The coffee machine on our floor is out of order again. Thanks in advance for your help.",Other
+VAL-000316,"Hi, My laptop screen stays black even after a full restart. Any help would be appreciated.",Hardware
+VAL-000317,"Dear helpdesk, My account got locked after too many failed login attempts. I would like this resolved soon.",Account
+VAL-000318,"Dear helpdesk, Internet speed on the third floor is extremely slow this morning. Please help as soon as possible.",Network
+VAL-000319,"Dear helpdesk, I cannot connect to the VPN from home today. Thanks in advance for your help.",Network
+VAL-000320,"Hi support team, The laptop fan is extremely loud and the case feels hot. Please help as soon as possible.",Hardware
+VAL-000321,"Hello, I noticed unfamiliar software running in the background of my computer. I appreciate the team's help with previous tickets. Let me know what you need from me.",Security
+VAL-000322,"To whom it may concern, I would like to request a new desk chair for the office. I would like this resolved soon.",Other
+VAL-000323,"To whom it may concern, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+VAL-000324,"To whom it may concern, An error dialog appears every time I open the accounting tool. Please help as soon as possible.",Software
+VAL-000325,"Dear helpdesk, The coffee machine on our floor is out of order again. This is affecting my work today.",Other
+VAL-000326,"Hi support team, The laptop fan is extremely loud and the case feels hot. Thanks in advance for your help.",Hardware
+VAL-000327,"Hello, A tool I rely on stopped doing what it used to do correctly. I will be out of office tomorrow afternoon. Please help as soon as possible.",Software
+VAL-000328,"Hi, Can someone update the meeting room booking calendar for next week. This is affecting my work today.",Other
+VAL-000329,"Hi, The antivirus alert keeps flagging a file I did not download. This has happened once before a few months ago. This is affecting my work today.",Security
+VAL-000330,"To whom it may concern, My account was merged with another user and now settings are wrong. I would like this resolved soon.",Account
+VAL-000331,"Dear helpdesk, I was logged out of every application and cannot sign back in. This is affecting my work today.",Account
+VAL-000332,"Hello, I have a question about expense reimbursement for a work trip. I would like this resolved soon.",Other
+VAL-000333,"Hi, My license for the design software appears to have expired. This is affecting my work today.",Software
+VAL-000334,"To whom it may concern, The physical machine on my desk is behaving strangely since yesterday. Please help as soon as possible.",Hardware
+VAL-000335,"Good morning, My profile information is missing after the last account update. I would like this resolved soon.",Account
+VAL-000336,"Dear helpdesk, The ethernet port in the meeting room does not seem to work. Thanks in advance for your help.",Network
+VAL-000337,"To whom it may concern, My account got locked after too many failed login attempts. Any help would be appreciated.",Account
+VAL-000338,"Hello, The installer fails halfway through with an unknown error code. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Software
+VAL-000339,"Hi, The remote desktop connection drops every time I try to log in. Thanks in advance for your help.",Network
+VAL-000340,"Hi support team, Two-factor authentication is not sending a code to my registered device. I will be out of office tomorrow afternoon. I would like this resolved soon.",Account
+VAL-000341,"Good morning, Can you tell me who to contact about a facilities request. Any help would be appreciated.",Other
+VAL-000342,"Hi, The mobile app keeps freezing on the login screen. Any help would be appreciated.",Software
+VAL-000343,"Good morning, The office printer on the second floor is jammed again. This is affecting my work today.",Hardware
+VAL-000344,"Hi, My license for the design software appears to have expired. Let me know what you need from me.",Software
+VAL-000345,"Hello, Could you confirm the parking policy for visitors next month. Please help as soon as possible.",Other
+VAL-000346,"Hi, The reporting application crashes every time I try to export a file. Let me know what you need from me.",Software
+VAL-000347,"Hello, The monitor keeps flickering and sometimes turns off completely. I appreciate the team's help with previous tickets. Please help as soon as possible.",Hardware
+VAL-000348,"Dear helpdesk, Internet speed on the third floor is extremely slow this morning. I would like this resolved soon.",Network
+VAL-000349,"To whom it may concern, The office printer on the second floor is jammed again. This is affecting my work today.",Hardware
+VAL-000350,"Hello, The internal dashboard shows a blank page after the server update. Let me know what you need from me.",Software
+VAL-000351,"To whom it may concern, I received a suspicious email asking me to confirm my password. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Security
+VAL-000352,"Dear helpdesk, I cannot connect to the VPN from home today. Any help would be appreciated.",Network
+VAL-000353,"Good morning, I would like feedback on the recent helpdesk satisfaction survey. Any help would be appreciated.",Other
+VAL-000354,"Hi support team, I think my laptop might be infected after clicking a strange link. Let me know what you need from me.",Security
+VAL-000355,"Hi support team, I would like feedback on the recent helpdesk satisfaction survey. Thanks in advance for your help.",Other
+VAL-000356,"Hello, I get a network unreachable error when opening internal tools. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Network
+VAL-000357,"Hi support team, I cannot connect to the VPN from home today. This is affecting my work today.",Network
+VAL-000358,"Hi, Someone asked me over chat to send my login details for a system check. I would like this resolved soon.",Security
+VAL-000359,"Hi, My laptop shows connected to wifi but no pages will load. Thanks in advance for your help.",Network
+VAL-000360,"Hello, Something is wrong with how I sign in and I keep getting rejected. Thanks in advance for your help.",Account
+VAL-000361,"Hello, I forgot my username and need help recovering account access. This is affecting my work today.",Account
+VAL-000362,"Hi support team, I cannot open any document since the last software update. Thanks in advance for your help.",Software
+VAL-000363,"Good morning, A recent patch removed a feature our whole team depends on. Let me know what you need from me.",Software
+VAL-000364,"Dear helpdesk, The laptop fan is extremely loud and the case feels hot. Any help would be appreciated.",Hardware
+VAL-000365,"Hi support team, My laptop shows connected to wifi but no pages will load. I appreciate the team's help with previous tickets. Thanks in advance for your help.",Network
+VAL-000366,"Hi support team, I get a network unreachable error when opening internal tools. Any help would be appreciated.",Network
+VAL-000367,"Hello, An error dialog appears every time I open the accounting tool. I would like this resolved soon.",Software
+VAL-000368,"To whom it may concern, The internal dashboard shows a blank page after the server update. Let me know what you need from me.",Software
+VAL-000369,"Hello, I accidentally shared my password with what looked like an internal form. Thanks in advance for your help.",Security
+VAL-000370,"Hi, The webcam on my laptop is not detected by any application. I would like this resolved soon.",Hardware
+VAL-000371,"Hello, I accidentally shared my password with what looked like an internal form. Please help as soon as possible.",Security
+VAL-000372,"Hello, I received a suspicious email asking me to confirm my password. Our team is currently in the middle of a big deadline. This is affecting my work today.",Security
+VAL-000373,"Hi support team, This is more of a general office matter than a computer problem. Let me know what you need from me.",Other
+VAL-000374,"To whom it may concern, My laptop shows connected to wifi but no pages will load. This is the second time I am reporting a similar issue this quarter. Please help as soon as possible.",Network
+VAL-000375,"Dear helpdesk, I would like feedback on the recent helpdesk satisfaction survey. Thanks in advance for your help.",Other
+VAL-000376,"Good morning, My profile information is missing after the last account update. This is affecting my work today.",Account
+VAL-000377,"Hi support team, The internal dashboard shows a blank page after the server update. Let me know what you need from me.",Software
+VAL-000378,"Hello, I get a network unreachable error when opening internal tools. I would like this resolved soon.",Network
+VAL-000379,"Hi support team, I noticed unfamiliar software running in the background of my computer. Our team is currently in the middle of a big deadline. I would like this resolved soon.",Security
+VAL-000380,"Good morning, Our shared folder permissions changed without anyone approving it. Let me know what you need from me.",Security
+VAL-000381,"Hello, The laptop fan is extremely loud and the case feels hot. Let me know what you need from me.",Hardware
+VAL-000382,"Good morning, Can someone update the meeting room booking calendar for next week. By the way, thank you for the fast response last time. Thanks in advance for your help.",Other
+VAL-000383,"Hi support team, The ethernet port in the meeting room does not seem to work. Any help would be appreciated.",Network
+VAL-000384,"Dear helpdesk, I would like to request a new desk chair for the office. Any help would be appreciated.",Other
+VAL-000385,"To whom it may concern, A firmware update left my laptop stuck on the boot screen. Any help would be appreciated.",Hardware
+VAL-000386,"Good morning, I think my laptop might be infected after clicking a strange link. Please help as soon as possible.",Security
+VAL-000387,"Hello, An error dialog appears every time I open the accounting tool. Let me know what you need from me.",Software
+VAL-000388,"Hi, The laptop fan is extremely loud and the case feels hot. I will be out of office tomorrow afternoon. Let me know what you need from me.",Hardware
+VAL-000389,"To whom it may concern, I get a network unreachable error when opening internal tools. Please help as soon as possible.",Network
+VAL-000390,"Hi support team, Internet speed on the third floor is extremely slow this morning. I will be out of office tomorrow afternoon. I would like this resolved soon.",Network
+VAL-000391,"Dear helpdesk, The office printer on the second floor is jammed again. This is affecting my work today.",Hardware
+VAL-000392,"Hello, The office wifi keeps disconnecting every few minutes. Let me know what you need from me.",Network
+VAL-000393,"Hi, The latest update broke the spreadsheet macros I rely on. By the way, thank you for the fast response last time. I would like this resolved soon.",Software
+VAL-000394,"Hi, Video calls keep freezing because of a poor connection. This is the second time I am reporting a similar issue this quarter. I would like this resolved soon.",Network
+VAL-000395,"Good morning, The shared network drive is unreachable from my desktop. Please help as soon as possible.",Network
+VAL-000396,"Hi, The ethernet port in the meeting room does not seem to work. Let me know what you need from me.",Network
+VAL-000397,"Hello, The shared network drive is unreachable from my desktop. I would like this resolved soon.",Network
+VAL-000398,"Good morning, A recent patch removed a feature our whole team depends on. Thanks in advance for your help.",Software
+VAL-000399,"Hi support team, An error dialog appears every time I open the accounting tool. Our team is currently in the middle of a big deadline. Thanks in advance for your help.",Software
+VAL-000400,"Good morning, Pages load, then stop loading, then load again without any pattern. Thanks in advance for your help.",Network
+VAL-000401,"Hi support team, Internet speed on the third floor is extremely slow this morning. This is affecting my work today.",Network
+VAL-000402,"Good morning, The shared network drive is unreachable from my desktop. Please help as soon as possible.",Network
+VAL-000403,"Dear helpdesk, Our shared folder permissions changed without anyone approving it. Please help as soon as possible.",Security
+VAL-000404,"Hi, Video calls keep freezing because of a poor connection. Please help as soon as possible.",Network
+VAL-000405,"Hello, I need to reset my password but the reset link never arrives. Let me know what you need from me.",Account
+VAL-000406,"Dear helpdesk, I think my laptop might be infected after clicking a strange link. Any help would be appreciated.",Security
+VAL-000407,"Hi, I received a suspicious email asking me to confirm my password. Please help as soon as possible.",Security
+VAL-000408,"To whom it may concern, The mobile app keeps freezing on the login screen. Please help as soon as possible.",Software
+VAL-000409,"Hi, A recent patch removed a feature our whole team depends on. Let me know what you need from me.",Software
+VAL-000410,"Dear helpdesk, The laptop fan is extremely loud and the case feels hot. Let me know what you need from me.",Hardware
+VAL-000411,"Hi, A tool I rely on stopped doing what it used to do correctly. Thanks in advance for your help.",Software
+VAL-000412,"Good morning, Our shared folder permissions changed without anyone approving it. Thanks in advance for your help.",Security
+VAL-000413,"Hi support team, The password reset email for my account never shows up in my inbox. By the way, thank you for the fast response last time. This is affecting my work today.",Account
+VAL-000414,"Hi, My laptop screen stays black even after a full restart. This is the second time I am reporting a similar issue this quarter. I would like this resolved soon.",Hardware
+VAL-000415,"Dear helpdesk, I have a question about expense reimbursement for a work trip. This has happened once before a few months ago. Any help would be appreciated.",Other
+VAL-000416,"Good morning, I need to reset my password but the reset link never arrives. This is affecting my work today.",Account
+VAL-000417,"Hello, The latest update broke the spreadsheet macros I rely on. This has happened once before a few months ago. Please help as soon as possible.",Software
+VAL-000418,"To whom it may concern, Can someone update the meeting room booking calendar for next week. Please help as soon as possible.",Other
+VAL-000419,"Hello, Someone asked me over chat to send my login details for a system check. By the way, thank you for the fast response last time. This is affecting my work today.",Security
+VAL-000420,"Hello, The calendar sync stopped working after I updated the client. Please help as soon as possible.",Software
+VAL-000421,"Hi support team, I have a general question about the new office badge policy. Let me know what you need from me.",Other
+VAL-000422,"Hi, I think my laptop might be infected after clicking a strange link. I would like this resolved soon.",Security
+VAL-000423,"Hi support team, The installer fails halfway through with an unknown error code. Let me know what you need from me.",Software
+VAL-000424,"Good morning, Someone asked me over chat to send my login details for a system check. Please help as soon as possible.",Security
+VAL-000425,"Hi support team, My license for the design software appears to have expired. Please help as soon as possible.",Software
+VAL-000426,"Hi support team, A colleague reported that someone is impersonating our support team. This is affecting my work today.",Security
+VAL-000427,"Dear helpdesk, I have a general question about the new office badge policy. Thanks in advance for your help.",Other
+VAL-000428,"To whom it may concern, The physical machine on my desk is behaving strangely since yesterday. Any help would be appreciated.",Hardware
+VAL-000429,"Hello, The mobile app keeps freezing on the login screen. Thanks in advance for your help.",Software
+VAL-000430,"Good morning, The installer fails halfway through with an unknown error code. Thanks in advance for your help.",Software
+VAL-000431,"Good morning, I cannot open any document since the last software update. Any help would be appreciated.",Software
+VAL-000432,"Hi support team, I get a network unreachable error when opening internal tools. Thanks in advance for your help.",Network
+VAL-000433,"Hi support team, The office wifi keeps disconnecting every few minutes. This is affecting my work today.",Network
+VAL-000434,"Good morning, The mobile app keeps freezing on the login screen. Please help as soon as possible.",Software
+VAL-000435,"Good morning, The program I use daily behaves unexpectedly since the newest release. Please help as soon as possible.",Software
+VAL-000436,"Good morning, Is there an update on the office relocation timeline. I would like this resolved soon.",Other
+VAL-000437,"To whom it may concern, The ethernet port in the meeting room does not seem to work. Please help as soon as possible.",Network
+VAL-000438,"To whom it may concern, The monitor keeps flickering and sometimes turns off completely. This has happened once before a few months ago. Thanks in advance for your help.",Hardware
+VAL-000439,"Hi, Could you confirm the parking policy for visitors next month. Thanks in advance for your help.",Other
+VAL-000440,"Hello, I received a suspicious email asking me to confirm my password. This has happened once before a few months ago. I would like this resolved soon.",Security
+VAL-000441,"Dear helpdesk, The laptop fan is extremely loud and the case feels hot. Please help as soon as possible.",Hardware
+VAL-000442,"Dear helpdesk, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+VAL-000443,"Hi support team, Something on my desk setup just stopped turning on properly. I will be out of office tomorrow afternoon. Thanks in advance for your help.",Hardware
+VAL-000444,"Good morning, I cannot connect to the VPN from home today. Please help as soon as possible.",Network
+VAL-000445,"Good morning, The docking station is not charging my laptop anymore. Our team is currently in the middle of a big deadline. Please help as soon as possible.",Hardware
+VAL-000446,"To whom it may concern, Two-factor authentication is not sending a code to my registered device. By the way, thank you for the fast response last time. Please help as soon as possible.",Account
+VAL-000447,"Hello, A colleague reported that someone is impersonating our support team. I would like this resolved soon.",Security
+VAL-000448,"To whom it may concern, Can you tell me who to contact about a facilities request. Please help as soon as possible.",Other
